@@ -1,5 +1,7 @@
 # WiLSpreadsheets
 
+View the directory: [here](directory.md).
+
 ## Instructions
 
 To add yourself to a list, copy the text below and paste it on a new line at the end of the relevant `.md` file, and then replace the filler text with your relevant information (i.e. replace `Surname` with your surname, `Given name` with your given name, and so on).
