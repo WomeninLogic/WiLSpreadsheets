@@ -1,7 +1,7 @@
 For instructions on how to add yourself to this directory, see the [main page](https://womeninlogic.github.io/WiLSpreadsheets/).
 
 | Surname | Given name | Institution (country) | Position | Website | Areas (separate by commas) |
-|:-|:-|:-|:-|:-|:-|:-|
+|:-|:-|:-|:-|:-|:-|
 A | Mani | Indian Statistical Institute, Kolkata | Scientist | https://www.logicamani.in ; https://www.researchgate.net/profile/Mani-A | Algebraic Logic, Rough Sets, Vagueness, Mereology, AIML, Clustering, Logic of Soft Computing, Dialectical Logic, Education Research
 Bagchi | Tista | University of Delhi (India) | Professor, Department of Linguistics | http://www.du.ac.in/index.php?id=270&fmember=2540&cid=319 | Formal semantics and pragmatics in relation to cognition and the philosophy of mathematics and physics, Philosophy of science with a special focus on the ethics of the responsible conduct of science
 Banerjee | Mohua | India Institute of Technology | Professor, Department of Mathematics | https://www.iitk.ac.in | Modal Logic, Approximate Reasoning, Rough Sets
