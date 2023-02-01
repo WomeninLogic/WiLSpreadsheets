@@ -3,7 +3,7 @@ For instructions on how to add yourself to this directory, see the [main page](h
 | Surname | Given name | Institution (country) | Position | Website | Areas (separate by commas) |
 |:-|:-|:-|:-|:-|:-|
 A | Mani | Indian Statistical Institute, Kolkata | Scientist | https://www.logicamani.in ; https://www.researchgate.net/profile/Mani-A | Algebraic Logic, Rough Sets, Vagueness, Mereology, AIML, Clustering, Logic of Soft Computing, Dialectical Logic, Education Research
-Bagchi | Tista | University of Delhi (India) | Professor, Department of Linguistics | http://www.du.ac.in/index.php?id=270&fmember=2540&cid=319 | Formal semantics and pragmatics in relation to cognition and the philosophy of mathematics and physics, Philosophy of science with a special focus on the ethics of the responsible conduct of science
+Bagchi | Tista | University of Delhi (India) | Professor, Department of Linguistics | http://www.du.ac.in/index.php?id=270&fmember=2540&cid=319 | Formal semantics and pragmatics in  cognition and philosophy of mathematics and physics, Philosophy of science focus on the ethics of the responsible conduct of science
 Banerjee | Mohua | India Institute of Technology | Professor, Department of Mathematics | https://www.iitk.ac.in | Modal Logic, Approximate Reasoning, Rough Sets
 Latour | Anna | National University of Singapore | Research Fellow | latower.github.io | Boolean Satisfiability, Propositional Model Counting, Formal Methods, (Weighted) MaxSAT, Stochastic SAT
 Cohen | Liron | Ben Gurion University (Israel) | assistant professor | http://www.cs.bgu.ac.il/~cliron | type theory, proof theory, foundations of mathematics, programming languages
@@ -14,8 +14,7 @@ Safari | Roghieh | Institute for Research in Fundamental Sciences(IPM,  Iran) | 
 Sagi | Gil | Haifa University (Israel) | Lecturer | https://gilisagi.wixsite.com/gil-sagi | Philosophy of logic , Philosophy of language, Logical consequence, formality, logical terms, Logic and natural language, History of the philosophy of logic (Frege, Tarski, Carnap)
 Zamansky | Anna | University of Haifa (Israel) | assistant professor | http://is.haifa.ac.il/~annazam/web/ | Non-classical logic, Proof Theory, Knowledge representation, Paraconsistent logics
 Davoren | Jen | University of Melbourne | Senior Lecturer | http://people.eng.unimelb.edu.au/davoren/ | Computer Science Logics
-Legg | Catherine | University of Waikato, NZ | Senior Lecturer | waikato.academia.edu/CathyLegg | Philosophical logic, formal ontology, Peirce, Diagrammatic logic, Metaphysics
-Legg | Catherine | Deakin University | Sr Lecturer | https://www.deakin.edu.au/about-deakin/people/cathy-legg | Logic, American pragmatism
+Legg | Catherine | Deakin University | Senior Lecturer | https://www.deakin.edu.au/about-deakin/people/cathy-legg | Logic, American pragmatism, formal ontology, Peirce, Diagrammatic logic,
 Rini | Adriane | Massey University, NZ | Professor | https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=330630 | History of Logic, Modal and Tense Logic, Aristotle, Formal Semantics, Metaphysics
 Rizkallah | Christine | University of New South Wales (Sydney, Australia) | Assistant Professor | http://www.cse.unsw.edu.au/~crizkallah/ | Formal Verification, Programming Languages
 Becher | Verónica | Universidad de Buenos Aires (Argentina) | Associate Professor | http://www.dc.uba.ar/people/profesores/becher/ | Theoretical computer science, computability, complexity, randomness, algorithmic randomness, Kolmogorov complexity,
