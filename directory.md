@@ -23,7 +23,7 @@ Cabrini Grácio | Maria Cláudia | Universidade Estadual Paulista Júlio de Mesq
 Cordero | Penélope | CONICET - Universidad Nacional del Litoral | Adjoint Professor |  | modal logic, fuzzy epistemic logic, Mathematics,
 Cresto | Eleonora | CONICET - Universidad de Buenos Aires (Argentina) | Professor | http://www.accionfilosofica.com/integrantes/integrante.pl?id=5 | formal epistemology, decision theory, philosophy of science, general epistemology, belief revision, epistemic logic, Epistemic rationality, cognitive decision theory,
 Loffredo D'Ottaviano | Itala Maria | University of Campinas(Brazil) | Full Professor | http://www.cle.unicamp.br | Non-classical Logic, Algebraic Logic, History and Philosophy of Logic,
-Loparic | Andrea | DF-USP(BR) | Professor Senior |  | Valuation Semantics, Decidability, Non-classical logics,deceased
+Loparic | Andrea | DF-USP(BR) | Professor Senior |  | Valuation Semantics, Decidability, Non-classical logics (in memoriam),
 Martins | Ana Teresa | Federal University of Ceará (Brazil) | Associate professor | www.mdcc.ufc.br | Finite Model Theory, Proof Theory, Descriptive Complexity, Non-Classical Logics,
 Nalon | Cláudia | University of Brasília (Brazil) | Associate Professor | http://www.cic.unb.br/~nalon | proof theory, non-classical logics, resolution calculus, combined modal logics,
 Nunes de Medeiros | Maria da Paz | Federal University of Rio Grande do Norte (Brazil) | Professor |  | modal logic, theory of  knowledge, proof  theory,
