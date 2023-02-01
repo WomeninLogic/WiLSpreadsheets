@@ -61,7 +61,6 @@ Dutilh Novaes | Catarina | VU Amsterdam (Netherlands) | Professor | cdutilhnovae
 Erascu | Madalina | West University of Timisoara, Romania | Lecturer | merascu.github.io | formal methods, symbolic computation
 Fernandez | Maribel | King's College London | Professor | https://www.nms.kcl.ac.uk/maribel.fernandez/ | models of computation, programming language semantics, foundations of security
 Franchella | Miriam | Milan University (Italy) | Associate professor | | miriam.franchella at unimi.it | philosophy of logic, history of logic, Logic and society, Intuitionism
-Fisman | Dana | Ben Gurion University (Israel) | Associate Professor | https://www.cs.bgu.ac.il/~dana/ | Automata and Formal Language Theory, Temporal Logic, Interesction of Computational Learning Theory and Formal Languages
 Georgieva | Lilia | Heriot Watt University (UK) | Lecturer | https://www.linkedin.com/in/liliageorgievageorgieva/ | automated reasoning, knowledge representation, theorem proving , program and process analysis, non-classical logic
 Gheerbrant | Amelie | University of Edinburgh (Scotland) | Research postdoc | http://homepages.inf.ed.ac.uk/agheerbr/ | mathematical logic, theoretical computer science, model theory, database theory
 Ghidini | Chiara | Fondazione Bruno Kessler (FBK) | Senior researcher | https://dkm.fbk.eu/ghidini/ | knowledge representation, mathematical logic
