@@ -33,7 +33,7 @@ Real | Livy | University of São Paulo (Brazil) | Associated Researcher | livyre
 Sterrett | Susan G.  | Wichita State University (United States of America) | Professor | susangsterrett.com | Philosophy of Science, Philosophy of AI,
 Veloso | Sheila | UFRJ | Professor |  |
 Wassermann | Renata | University of São Paulo (Brazil) | Associate Professor | http://www.ime.usp.br/~renata/ | Knowledge representation, non-classical logics, belief revision,
-Nantes,Daniele | Universidade de Brasília (Brazil) |  |  |  |  Lambda-Calculus, Nominal Techniques, Process Calculus,
+Nantes | Daniele | Universidade de Brasília (Brazil)  |  |  |  Lambda-Calculus, Nominal Techniques, Process Calculus,
 Martinez | Maria Vanina | Universidad de Buenos Aires (Argentina) | Professor | https://mvmartinez.dc.uba.ar/ | Knowledge representation, non-classical logics, belief revision
 Alechina | Natasha | University of Nottingham | Associate Professor | https://scholar.google.co.uk/citations?user=J1ThCVcAAAAJ | Modal logics and multiagent systems
 Aloni | Maria | ILLC -- University of Amsterdam (Netherlands) | Associate Professor | http://maloni.humanities.uva.nl/ | Formal Semantics and pragmatics, Philosophy of language, indefinite reference, dynamic semantics
