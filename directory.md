@@ -21,7 +21,7 @@ Biernacka | Malgorzata | Institute of Computer Science, Univerisity of Wroclaw, 
 Bilkova | Marta | Czech Academy of Sciences (Czech rep.) | Researcher | https://sites.google.com/view/martabilkova | Logic in computer science, Non-classical logics, Modal, substructural and paraconsistent logics, Coalgebraic logic
 Blanchette | Patricia | U of Notre Dame | Professor | https://www3.nd.edu/~pblanche/ | philosophy of logic, history of logic
 Blasio | Carolina | CLE/IFCH - Unicamp (Brazil) | (in memoriam) | |  | Philosophical logic
-Bobzien | Susanne | Yale University, University of Oxford | Professor and Senior researcher | http://philosophy.yale.edu/bobzien | Philosophical logic, History of logic, Vagueness, higher-order vagueness, ancient logic (from Aristotle to Boethius)
+Bobzien | Susanne |  University of Oxford | Professor and Senior researcher |  https://www.asc.ox.ac.uk/person/2155 | Philosophical logic, Hist logic, Vagueness, higher-order vagueness, ancient logic 
 Boritchev | Maria | Loria, Inria Nancy Grand-Est (France) | PhD Student, Lecturer | https://members.loria.fr/MBoritchev/ | Formal semantics, pragmatics, computational linguistics
 Borja Macias | Verónica | Universidad Tecnológica de la Mixteca (Mexico) | Professor | |  | Non-classical logic, Logic Programming, Knowledge representation
 Bosman | Bianca | University of Groningen, Netherlands | PhD student | |  | history of logic, , medieval and ancient logics (including Stoic logic), containment
