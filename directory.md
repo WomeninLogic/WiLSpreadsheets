@@ -2,7 +2,7 @@ For instructions on how to add yourself to this directory, see the [main page](h
 
 | Surname | Given name | Institution (country) | Position | Website | Areas (separate by commas) |
 |:-|:-|:-|:-|:-|:-|
-A | Mani | Indian Statistical Institute, Kolkata | Scientist | https://www.logicamani.in ; https://www.researchgate.net/profile/Mani-A | Algebraic Logic, Rough Sets, Vagueness, Mereology, AIML, Clustering, Logic of Soft Computing, Dialectical Logic, Education Research
+A | Mani | Indian Statistical Institute, Kolkata | Scientist | https://www.logicamani.in ; https://www.researchgate.net/profile/Mani-A | Algebraic Logic, Rough Sets, Vagueness, AIML, Mereology, Education Research
 Abeles | Francine | Kean University | Professor Emerita | |  | History of logic in 19th & 20th centuries
 Alechina | Natasha | University of Nottingham | Associate Professor | https://scholar.google.co.uk/citations?user=J1ThCVcAAAAJ | Modal logics and multiagent systems
 Aloni | Maria | ILLC -- University of Amsterdam (Netherlands) | Associate Professor | http://maloni.humanities.uva.nl/ | Formal Semantics and pragmatics, Philosophy of language, indefinite reference, dynamic semantics
