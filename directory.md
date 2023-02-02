@@ -27,6 +27,7 @@ Borja Macias | Verónica | Universidad Tecnológica de la Mixteca (Mexico) | Pro
 Bosman | Bianca | University of Groningen, Netherlands | PhD student | |  | history of logic, , medieval and ancient logics (including Stoic logic), containment
 Brown | Carolyn | Industry | Chief Information Officer | http://www.cio.co.uk/cio100/ |
 Bueno-Soler | Juliana | Federal University of ABC (Brazil) | Associate Professor | http://lattes.cnpq.br/5824391030945544 | modal logic, non-classical  logics, critical  thinking,
+Bunge | Marta | McGill University  | Emerita Professor (in memoriam) | https://www.researchgate.net/profile/Marta-Bunge | categorical  logic,
 Cabrini Grácio | Maria Cláudia | Universidade Estadual Paulista Júlio de Mesquita Filho (Brazil) | Associate Professor | http://lattes.cnpq.br/5170688300970006 | non-classical logics, logic and decision theory, statistics,
 Campbell-Moore | Catrin | University of Bristol (UK) | Researcher (Lecturer) | www.ccampbell-moore.co.uk | philosophical logic, formal epistemology, self-referential probabilities (theories of truth), epistemic utility theory; philosophy of probability
 Canavotto | Ilaria | ILLC -University of Amsterdam (Netherlands) | Postdoctoral researcher | https://sites.google.com/view/ilariacanavotto/ | philosophical logic, deontic logic, logics of actions
