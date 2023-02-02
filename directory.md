@@ -137,7 +137,7 @@ Pérez-Ilzarbe | Paloma | University of Navarra | Associate professor | http://w
 Quinon | Paula | Lund University (Sweden) | Researcher | http://lu.academia.edu/paulaquinon | Philosophy of Mathematics, Logic of everyday reasonings, Axiomatic arithmetic, Logical competence, Number concept
 Ramharter | Esther | Universität Wien (Austria) |  | http://homepage.univie.ac.at/esther.ramharter/ | philosophical logic
 Real | Livy | University of São Paulo (Brazil) | Associated Researcher | livyreal.github.io | natural logic, Lambda-calculus, natural languages,
-Reis | Giselle | Carnegie Mellon University (Qatar) | Assistant Professor | http://www.gisellereis.com/ | Structural proof theory, Linear logic, Theorem proving, Logical frameworks
+Reis | Giselle | Carnegie Mellon University (Qatar) | Associate Teaching Professor | http://www.gisellereis.com/ | Structural proof theory, Linear logic, Theorem proving, Logical frameworks
 Rini | Adriane | Massey University, NZ | Professor | https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=330630 | History of Logic, Modal and Tense Logic, Aristotle, Formal Semantics, Metaphysics
 Rizkallah | Christine | University of New South Wales (Sydney, Australia) | Assistant Professor | http://www.cse.unsw.edu.au/~crizkallah/ | Formal Verification, Programming Languages
 Rogerson | Susan | Monash University (Australia) | Grad student | |  | Curry's Paradox, substructural logics, proof theory
