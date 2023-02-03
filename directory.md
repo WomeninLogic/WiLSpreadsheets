@@ -82,7 +82,7 @@ Keet | Maria | University of Cape Town (South Africa) | Associate professor | ht
 Kennedy | Juliette | University of Helsinki (Department of Mathematics and Statistics) | Associate professor | www.math.helsinki.fi/logic/people/juliette.kennedy/ | Mathemtical logic, philosophy and history of mathematics and logic, aesthetics, Set theory, Goedel
 Kerjean | Marie | CNRS (France) | Researcher | https://lipn.univ-paris13.fr/~kerjean/ | Denotational semantics, Category Theory, Functional Analysis, Proof Assistants, Proof Theory, Formalization of Mathematics
 Kesner | Delia | Université Paris Cité  | Full Professor  | www.irif.fr/~kesner | Proof Theory , Semantics of Programming Languages
-Kiefer | Sandra | MPI-SWS | Research Group Leader | https://www.mpi-sws.org/people/skiefer/ | Mathematical Logic, Descriptive Complexity, Algorithmic and Structural Graph Theory, Algebraic Topology
+Kiefer | Sandra | University of Oxford | Junior Research Fellow | https://www.cs.ox.ac.uk/people/sandra.kiefer/ | Mathematical Logic, Descriptive Complexity, Algorithmic and Structural Graph Theory, Algebraic Topology
 Knight | Sophia | Uppsala University | Postdoc | http://www.lix.polytechnique.fr/~sophia/ | Epistemic logic & concurrency
 Kouri Kissel | Teresa | Old Dominion University (USA) | Assistant Professor | https://sites.google.com/site/teresakouri/home | Philosophy of Logic, Philosophy of Language, logical pluralism, mathematical structuralism
 Lange | Karen | Wellesley College (USA) | Associate Professor | https://www.wellesley.edu/math/faculty/karen_lange | Computability Theory
