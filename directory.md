@@ -11,7 +11,7 @@ Anderson | Gabrielle | University of Aberdeen (UK) | Research postdoc | |  | mod
 Antonakos | Evangelia | Bronx Community College, CUNY (New York, USA) | Assistant Professor | |  | mathematical logic, modal episemology
 Arndt | Dörthe | TU Dresden (Germany) | Postdoc | https://iccl.inf.tu-dresden.de/web/D%C3%B6rthe_Arndt | knowledge representation and reasoning, Rule-based reasoning
 Ayhan | Sara | Ruhr University Bochum, Germany | PhD Student | https://www.pe.ruhr-uni-bochum.de/philosophie/i/logic/team/ayhan.html.en | Proof-theoretic semantics, proof theory, bilateralism, philosophical logic, non-classical logics
-Bagchi | Tista | University of Delhi (India) | Professor, Department of Linguistics | http://www.du.ac.in/index.php?id=270&fmember=2540&cid=319 | Formal semantics and pragmatics in  cognition and philosophy of mathematics and physics, Philosophy of science focus on the ethics of the responsible conduct of science
+Bagchi | Tista | University of Delhi (India) | Professor, Department of Linguistics | http://www.du.ac.in/index.php?id=270&fmember=2540&cid=319 | semantics and pragmatics, philosophy of mathematics and physics, Philosophy of science focus on the ethics
 Balzer | Stephanie | Carnegie Mellon University (USA) | Assistant Research Professor | https://www.cs.cmu.edu/~balzers/ | Type theory, Programming Languages, Security
 Banerjee | Mohua | India Institute of Technology | Professor, Department of Mathematics | https://www.iitk.ac.in | Modal Logic, Approximate Reasoning, Rough Sets
 Becher | Verónica | Universidad de Buenos Aires (Argentina) | Associate Professor | http://www.dc.uba.ar/people/profesores/becher/ | Theoretical computer science, computability, complexity, randomness, algorithmic randomness, Kolmogorov complexity,
