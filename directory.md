@@ -5,7 +5,7 @@ For instructions on how to add yourself to this directory, see the [main page](h
 A | Mani | Indian Statistical Institute, Kolkata | Scientist | https://www.logicamani.in ; https://www.researchgate.net/profile/Mani-A | Algebraic Logic, Rough Sets, Vagueness, AIML, Mereology, Education Research
 Abeles | Francine | Kean University | Professor Emerita | |  | History of logic in 19th & 20th centuries
 Alechina | Natasha | University of Nottingham | Associate Professor | https://scholar.google.co.uk/citations?user=J1ThCVcAAAAJ | Modal logics and multiagent systems
-Aloni | Maria | ILLC -- University of Amsterdam (Netherlands) | Associate Professor | http://maloni.humanities.uva.nl/ | Formal Semantics and pragmatics, Philosophy of language, indefinite reference, dynamic semantics
+Aloni | Maria | ILLC -- University of Amsterdam (Netherlands) | Associate Professor | http://maloni.humanities.uva.nl/ | Semantics and pragmatics, Phil language, indefinite reference, dynamic semantics
 Alves | Sandra | University of Porto | Assistant professor | http://www.dcc.fc.up.pt/-sandra | Type theory, Programming Languages, Fornal methods
 Anderson | Gabrielle | University of Aberdeen (UK) | Research postdoc | |  | modal logics and process calculi
 Antonakos | Evangelia | Bronx Community College, CUNY (New York, USA) | Assistant Professor | |  | mathematical logic, modal episemology
@@ -69,6 +69,7 @@ Gierasimczuk | Nina | Technical University of Denmark | associate professor | ht
 Glavaničová | Daniela | Comenius University (Slovakia) | PhD student | |  | Deontic logic, Hyperintensional logic, hyperintensional deontic logic, multivalued deontic logic, philosophy of fiction
 Golińska-Pilarek | Joanna | Institute of Philosophy at the University of Warsaw (Poland) | assistant professor | http://joannagolinska.com/ | philosophical and mathematical logic, analytic philosophy, non-classical logics, non-Fregean logics
 Gómez Álvarez | Lucia | TU Dresden (Germany) | postdoc | https://iccl.inf.tu-dresden.de/web/Luc%C3%ADa_G%C3%B3mez_%C3%81lvarez | modal logic, knowledge representation and reasoning, linguistics
+Ghosh | Sujata | Indian Statistical Institute, Chennai (India) | Associate Professor | https://www.isichennai.res.in/~sujata | Games, strategies and logics, Knowledge and belief, Social choices, Social cognition, Reasoning in individuals with ASD
 Hansen | Helle Hvid | University of Groningen (Netherlands) | Associate Professor | https://www.rug.nl/staff/h.h.hansen/ | modal logic, coalgebra, category theory, dynamic coalgebraic logics, coalgebraic modal logic, non-normal modal logics, neighbourhood semantics
 Heydari Tabar | Asmae | Technical University of Darmstadt (Germany) | PhD Student | |  | First-order logic, Formal specification and verification of software
 Hogarth Rossiter | Sarah | University of Western Ontario (Canada) | PhD Candidate | | shogart@uwo.ca | History of Logic, Late mediaeval logic, Thomas Bradwardine, Future contingents
