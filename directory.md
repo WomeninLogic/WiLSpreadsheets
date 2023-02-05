@@ -27,12 +27,12 @@ Borja Macias | Verónica | Universidad Tecnológica de la Mixteca (Mexico) | Pro
 Bosman | Bianca | University of Groningen, Netherlands | PhD student | |  | history of logic, , medieval and ancient logics (including Stoic logic), containment
 Brown | Carolyn | Industry | Chief Information Officer | http://www.cio.co.uk/cio100/ |
 Bueno-Soler | Juliana | Federal University of ABC (Brazil) | Associate Professor | http://lattes.cnpq.br/5824391030945544 | modal logic, non-classical  logics, critical  thinking,
-Bunge | Marta | McGill University  | Emerita Professor (in memoriam) | https://www.researchgate.net/profile/Marta-Bunge | categorical  logic,
-Cabrini Grácio | Maria Cláudia | Universidade Estadual Paulista Júlio de Mesquita Filho (Brazil) | Associate Professor | http://lattes.cnpq.br/5170688300970006 | non-classical logics, logic and decision theory, statistics,
+Bunge | Marta | McGill University  | Emerita Professor (in memoriam) | https://www.researchgate.net/profile/Marta-Bunge | categorical  logic, topos theory, category theory 
+Cabrini Grácio | Maria Cláudia | Universidade Estadual Paulista Júlio de Mesquita Filho (Brazil) | Associate Professor | http://lattes.cnpq.br/5170688300970006 | non-classical logics, logic and decision theory, statistics
 Campbell-Moore | Catrin | University of Bristol (UK) | Researcher (Lecturer) | www.ccampbell-moore.co.uk | philosophical logic, formal epistemology, self-referential probabilities, epistemic utility theory
 Canavotto | Ilaria | ILLC -University of Amsterdam (Netherlands) | Postdoctoral researcher | https://sites.google.com/view/ilariacanavotto/ | philosophical logic, deontic logic, logics of actions
 Cholodovskis | Ana | MCMP - Munich (Germany) | PhD Fellow | https://www.mcmp.philosophie.uni-muenchen.de/people/doct_fellows/cholodovskis_ana/index.html | Logic, Formal Epistemology, Logic of Demonstratives, Belief Revision, Non-Classical Logics
-Christoff | Zoé | University of Groningen (NL)  | Assistant professor & Rosalind Franklin Fellow | www.zoechristoff.com | Logics for social networks, Dynamic Epistemic Logic,  Judgment aggregation theory, social epistemology, social network analysis.
+Christoff | Zoé | University of Groningen (NL)  | Assistant professor & Rosalind Franklin Fellow | www.zoechristoff.com | Logics for social networks, Dynamic Epistemic Logic,  Judgment aggregation theory, social epistemology.
 Ciabattoni | Agata | Institute of Computer Languages (TU Wien,  Austria) | Full Professor | http://www.logic.at/staff/agata/ | Non-classical logic, Proof Theory
 Clark-Younger | Hannah | University of Otago (New Zealand) | PhD Candidate | |  | Philosophical Logic, Imperative Logic
 Cohen | Liron | Ben Gurion University (Israel) | assistant professor | http://www.cs.bgu.ac.il/~cliron | type theory, proof theory, foundations of mathematics, programming languages
