@@ -29,22 +29,22 @@ Brown | Carolyn | Industry | Chief Information Officer | http://www.cio.co.uk/ci
 Bueno-Soler | Juliana | Federal University of ABC (Brazil) | Associate Professor | http://lattes.cnpq.br/5824391030945544 | modal logic, non-classical  logics, critical  thinking,
 Bunge | Marta | McGill University  | Emerita Professor (in memoriam) | https://www.researchgate.net/profile/Marta-Bunge | categorical  logic,
 Cabrini Grácio | Maria Cláudia | Universidade Estadual Paulista Júlio de Mesquita Filho (Brazil) | Associate Professor | http://lattes.cnpq.br/5170688300970006 | non-classical logics, logic and decision theory, statistics,
-Campbell-Moore | Catrin | University of Bristol (UK) | Researcher (Lecturer) | www.ccampbell-moore.co.uk | philosophical logic, formal epistemology, self-referential probabilities (theories of truth), epistemic utility theory; philosophy of probability
+Campbell-Moore | Catrin | University of Bristol (UK) | Researcher (Lecturer) | www.ccampbell-moore.co.uk | philosophical logic, formal epistemology, self-referential probabilities, epistemic utility theory
 Canavotto | Ilaria | ILLC -University of Amsterdam (Netherlands) | Postdoctoral researcher | https://sites.google.com/view/ilariacanavotto/ | philosophical logic, deontic logic, logics of actions
 Cholodovskis | Ana | MCMP - Munich (Germany) | PhD Fellow | https://www.mcmp.philosophie.uni-muenchen.de/people/doct_fellows/cholodovskis_ana/index.html | Logic, Formal Epistemology, Logic of Demonstratives, Belief Revision, Non-Classical Logics
-Christoff | Zoé | University of Groningen (NL)  | Assistant professor & Rosalind Franklin Fellow | www.zoechristoff.com | Logics for social networks, Philosophical logic, Dynamic Epistemic Logic,  Judgment aggregation theory, social epistemology, formal epistemology, social network analysis.
+Christoff | Zoé | University of Groningen (NL)  | Assistant professor & Rosalind Franklin Fellow | www.zoechristoff.com | Logics for social networks, Dynamic Epistemic Logic,  Judgment aggregation theory, social epistemology, social network analysis.
 Ciabattoni | Agata | Institute of Computer Languages (TU Wien,  Austria) | Full Professor | http://www.logic.at/staff/agata/ | Non-classical logic, Proof Theory
 Clark-Younger | Hannah | University of Otago (New Zealand) | PhD Candidate | |  | Philosophical Logic, Imperative Logic
 Cohen | Liron | Ben Gurion University (Israel) | assistant professor | http://www.cs.bgu.ac.il/~cliron | type theory, proof theory, foundations of mathematics, programming languages
 Compagnoni | Adriana | Stevens Institute of Technology | Associate Professor | https://scholar.google.com/citations?user=S-zXJGUAAAAJ&hl=en | Programming Languages, Computational Biology, Computer Security
 Coraglia | Greta | University of Genoa (Italy) | PhD Student | https://etagreta.github.io/ | Categorical logic, theoretical computer science
 Cordero | Penélope | CONICET - Universidad Nacional del Litoral | Adjoint Professor |  | modal logic, fuzzy epistemic logic, Mathematics,
-Cresto | Eleonora | CONICET - Universidad de Buenos Aires (Argentina) | Professor | http://www.accionfilosofica.com/integrantes/integrante.pl?id=5 | formal epistemology, decision theory, philosophy of science, general epistemology, belief revision, epistemic logic, Epistemic rationality, cognitive decision theory,
+Cresto | Eleonora | CONICET - Universidad de Buenos Aires (Argentina) | Professor | http://www.accionfilosofica.com/integrantes/integrante.pl?id=5 | formal epistemology, decision theory, philosophy of science, belief revision, epistemic logic, cognitive decision theory,
 Daphne | Wang | UCL (UK) | PhD Student | |  | formal semantics of natural language, intuitionistic logic, quantum logic
 Dardha | Ornela | University of Glasgow (UK) | Lecturer | http://www.dcs.gla.ac.uk/~ornela/ | Programming Languages, Formal Methods
 Davis | Ruth E. | Santa Clara University (USA) | Professor | http://www.cse.scu.edu/~rdavis/html/homepage.html | logic and semantics of programming languages
 Davoren | Jen | University of Melbourne | Senior Lecturer | http://people.eng.unimelb.edu.au/davoren/ | Computer Science Logics
-de Paiva | Valeria | Topos Institute (US)  | Principal Research Scientist | http://vcvpaiva.github.io/ | Categorical Logic, category theory, linear and intuitionistic logic
+de Paiva | Valeria | Topos Institute (US)  | Principal Research Scientist | http://vcvpaiva.github.io/ | Categorical Logic, category theory, linear, modal and intuitionistic logics
 Dechesne | Francien | Delft University of Technology (Netherlands) | researcher | http://www.ethicsandtechnology.eu/people/dechesne/ | mathematical logic; constructive logic, modal logics for modelling interaction, independence friendly logic, dynamic epistemic logic
 Dobrinen | Natasha | University of Denver | Professor | http://cs.du.edu/~ndobrine/ | Logic and Set Theory, Ramsey Theory
 Dumbrava | Stefania | ENSIIE & Institut Polytechnique de Paris (France) | Associate Professor | http://web4.ensiie.fr/~stefania.dumbrava/ | Formal Methods , Programming Languages, Software Verification, Theorem Proving; Logic, Databases; Knowledge Representation; Artificial Intelligence
