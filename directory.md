@@ -47,7 +47,7 @@ Davoren | Jen | University of Melbourne | Senior Lecturer | http://people.eng.un
 de Paiva | Valeria | Topos Institute (US)  | Principal Research Scientist | http://vcvpaiva.github.io/ | Categorical Logic, category theory, linear, modal and intuitionistic logics
 Dechesne | Francien | Delft University of Technology (Netherlands) | researcher | http://www.ethicsandtechnology.eu/people/dechesne/ | constructive logic, modal logics  independence friendly logic, dynamic epistemic logic
 Dobrinen | Natasha | University of Denver | Professor | http://cs.du.edu/~ndobrine/ | Logic and Set Theory, Ramsey Theory
-Dumbrava | Stefania | ENSIIE & Institut Polytechnique de Paris (France) | Associate Professor | http://web4.ensiie.fr/~stefania.dumbrava/ | Formal Methods , Programming Languages, Software Verification, Theorem Proving;  Knowledge Representation; 
+Dumbrava | Stefania | ENSIIE & Institut Polytechnique de Paris (France) | Associate Professor | http://web4.ensiie.fr/~stefania.dumbrava/ | Formal Methods, Software Verification, Theorem Proving,  Knowledge Representation 
 Dunfield | Jana | Queen's University (Canada) | Assistant Professor | https://research.cs.queensu.ca/home/jana/ | programming languages
 Dutilh Novaes | Catarina | VU Amsterdam (Netherlands) | Professor | cdutilhnovaes.com | Philosophy of Logic, History of Logic, Logic and cognition, Medieval logic
 Eckert | Maureen | UMASS Dartmouth (USA) | Professor | https://philpeople.org/profiles/maureen-eckert | Non-classical logic, Feminist Logic
@@ -59,12 +59,12 @@ Franchella | Miriam | Milan University (Italy) | Associate professor | | miriam.
 Franklin | Johanna | Hofstra University (USA) | Associate Professor | https://people.hofstra.edu/Johanna_N_Franklin/ | mathematical logic, computability theory, algorithmic randomness, effective structure theory
 Friedman | Shoshana | KCC-City University of New York (USA) | Associate Professor | |  | Mathematical logic, Set theory
 Gamboa Guzman | Laura Paola | Iowa State University (USA) | PhD Student | https://sites.google.com/view/lpgamboa/home | Modal logic, temporal logic, model checking, epistemic logic, rough set theory, mathematical logic
-Garbayo | Luciana | University of Central Florida | Assistant Professor | |  | Logic, Computation and Scientific Methodology , Epistemology, Modal Logic & Game Theoretic Semantics, Decision Science, Natural Language Processing, Model theory, Sheaves, Cohomology
+Garbayo | Luciana | University of Central Florida | Assistant Professor | |  | Computation and Scientific Methodology , Epistemology, Game Theoretic Semantics, Decision Science,  Model theory, Sheaves, Cohomology
 Georgieva | Lilia | Heriot Watt University (UK) | Lecturer | https://www.linkedin.com/in/liliageorgievageorgieva/ | automated reasoning, knowledge representation, theorem proving , non-classical logic
 Gheerbrant | Amelie | University of Edinburgh (Scotland) | Research postdoc | http://homepages.inf.ed.ac.uk/agheerbr/ | mathematical logic, theoretical computer science, model theory, database theory
 Ghidini | Chiara | Fondazione Bruno Kessler (FBK) | Senior researcher | https://dkm.fbk.eu/ghidini/ | knowledge representation, mathematical logic
 Ghilezan | Silvia | University of Novi Sad | Professor | http://imft.ftn.uns.ac.rs/~silvia | mathematical logic, theoretical computer science, type theory, concurrency
-Ghourabi | Fadoua | Ochanomizu University (Japan) | Lecturer | ghourabi.net/fadoua | theorem proving in qualitative reasoning, theorem proving in origami geometry, proof assistants, automated algebraic provers
+Ghourabi | Fadoua | Ochanomizu University (Japan) | Lecturer | ghourabi.net/fadoua | theorem proving/qualitative reasoning, origami geometry, automated algebraic provers
 Gierasimczuk | Nina | Technical University of Denmark | associate professor | http://ninagierasimczuk.com/ | mathematical and philosophical logic, formal epistemology and philosophy of science, learning theory, epistemic logic
 Glavaničová | Daniela | Comenius University (Slovakia) | PhD student | |  | Deontic logic, Hyperintensional logic, hyperintensional deontic logic, multivalued deontic logic, philosophy of fiction
 Golińska-Pilarek | Joanna | Institute of Philosophy at the University of Warsaw (Poland) | assistant professor | http://joannagolinska.com/ | philosophical and mathematical logic, analytic philosophy, non-classical logics, non-Fregean logics
