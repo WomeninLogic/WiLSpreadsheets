@@ -160,7 +160,7 @@ Silva | Alexandra | UCL (UK) | Professor | http://www.alexandrasilva.org |
 Simona | Simona | University of Sheffield | Masters Student | |  | Computing, Machine Learning and AI, Algorithms
 Smets | Sonja | ILLC -- University of Amsterdam (Netherlands) | Full Professor | https://sites.google.com/site/thesonjasmetssite/ | philosophical logic, mathematical logic, philosophy of quantum physics, Quantum logic, logic in AI, formal epistemology, logical foundations of quantum theory, epistemic networks, quantum communication protocols
 Sokolova | Ana | University of Salzburg | Associate Professor | http://cs.uni-salzburg.at/~anas/ | Coalgebra, Concurrency, Probabilistic Systems, Algebra, Verification
-Solaki | Anthia | ILLC - University of Amsterdam (the Netherlands) | Postdoctoral researcher | https://sites.google.com/view/anthiasolaki/ | Philosophical logic, dynamic epistemic logics, logics for social networks, formal epistemology, models for human reasoning
+Solaki | Anthia | Dutch Organization for Applied Scientific Research (TNO) | Research Scientist | https://sites.google.com/view/anthiasolaki/ | Dynamic epistemic logics, logics for social networks, formal epistemology, knowledge graphs, human-machine teaming
 Soskova | Alexandra | Sofia University, Sofia | Asociate Professor | https://store.fmi.uni-sofia.bg/fmi/logic/asoskova/ | Computability, Effective Model Theory, Enumeration reducibilty, Degree Spectra, Jump of a structure
 Sterrett | Susan G | Wichita State University, Kansas, USA | Full Professor | https://www.susangsterrett.com/ | Philosophy of Science , AI/Philosophical Logic/PhilMind
 Ternovska | Evgenia | Simon Fraser University (Canada) | | www.cs.sfu.ca/~ter |  | Computational logic
