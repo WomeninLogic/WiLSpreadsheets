@@ -47,7 +47,7 @@ Davoren | Jen | University of Melbourne | Senior Lecturer | http://people.eng.un
 de Paiva | Valeria | Topos Institute (US)  | Principal Research Scientist | http://vcvpaiva.github.io/ | Categorical Logic, category theory, linear, modal and intuitionistic logics
 Dechesne | Francien | Delft University of Technology (Netherlands) | researcher | http://www.ethicsandtechnology.eu/people/dechesne/ | constructive logic, modal logics  independence friendly logic, dynamic epistemic logic
 Dobrinen | Natasha | University of Denver | Professor | http://cs.du.edu/~ndobrine/ | Logic and Set Theory, Ramsey Theory
-Dumbrava | Stefania | ENSIIE & Institut Polytechnique de Paris (France) | Associate Professor | http://web4.ensiie.fr/~stefania.dumbrava/ | Formal Methods , Programming Languages, Software Verification, Theorem Proving; Logic, Databases; Knowledge Representation; Artificial Intelligence
+Dumbrava | Stefania | ENSIIE & Institut Polytechnique de Paris (France) | Associate Professor | http://web4.ensiie.fr/~stefania.dumbrava/ | Formal Methods , Programming Languages, Software Verification, Theorem Proving;  Knowledge Representation; 
 Dunfield | Jana | Queen's University (Canada) | Assistant Professor | https://research.cs.queensu.ca/home/jana/ | programming languages
 Dutilh Novaes | Catarina | VU Amsterdam (Netherlands) | Professor | cdutilhnovaes.com | Philosophy of Logic, History of Logic, Logic and cognition, Medieval logic
 Eckert | Maureen | UMASS Dartmouth (USA) | Professor | https://philpeople.org/profiles/maureen-eckert | Non-classical logic, Feminist Logic
