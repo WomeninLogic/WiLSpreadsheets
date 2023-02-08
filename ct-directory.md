@@ -1,4 +1,4 @@
-# Category theory directory
+# Women in Category theory directory
 
 For instructions on how to add yourself to this directory, see the [main page](https://womeninlogic.github.io/WiLSpreadsheets/).
 
