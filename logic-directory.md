@@ -1,4 +1,4 @@
-# Logic directory
+# Women in Logic directory
 
 For instructions on how to add yourself to this directory, see the [main page](https://womeninlogic.github.io/WiLSpreadsheets/).
 
