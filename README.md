@@ -1,10 +1,11 @@
 # WiLSpreadsheets
 
-[View the directory here](directory.md).
+- [Women in Logic](logic-directory.md)
+- [Women in Category Theory](ct-directory.md)
 
 ## Instructions
 
-To add yourself to the list, copy the text below and paste it on a new line at the end of the `directory.md` file in the [GitHub repository](https://github.com/WomeninLogic/WiLSpreadsheets), and then replace the filler text with your relevant information (i.e. replace `Surname` with your surname, `Given name` with your given name, and so on).
+To add yourself to the list, copy the text below and paste it on a new line at the end of the revelant `.md` file in the [GitHub repository](https://github.com/WomeninLogic/WiLSpreadsheets), and then replace the filler text with your relevant information (i.e. replace `Surname` with your surname, `Given name` with your given name, and so on).
 
 > ```Surname | Given name | Institution (country) | Position | Website | Areas (separate by commas)```
 
