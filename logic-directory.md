@@ -5,12 +5,12 @@ For instructions on how to add yourself to this directory, see the [main page](h
 | Surname | Given name | Institution (country) | Position | Website | Areas (separate by commas) |
 |:-|:-|:-|:-|:-|:-|
 A | Mani | Indian Statistical Institute, Kolkata | Scientist | https://www.logicamani.in ; https://www.researchgate.net/profile/Mani-A | Algebraic Logic, Rough Sets, Vagueness, AIML, Mereology, Education Research
-Abeles | Francine | Kean University | Professor Emerita | |  | History of logic in 19th & 20th centuries
+Abeles | Francine | Kean University | Professor Emerita |   | History of logic in 19th & 20th centuries
 Alechina | Natasha | University of Nottingham | Associate Professor | https://scholar.google.co.uk/citations?user=J1ThCVcAAAAJ | Modal logics and multiagent systems
 Aloni | Maria | ILLC -- University of Amsterdam (Netherlands) | Associate Professor | http://maloni.humanities.uva.nl/ | Semantics and pragmatics, Phil language, indefinite reference, dynamic semantics
 Alves | Sandra | University of Porto | Assistant professor | http://www.dcc.fc.up.pt/-sandra | Type theory, Programming Languages, Fornal methods
 Anderson | Gabrielle | University of Aberdeen (UK) | Research postdoc | |  | modal logics and process calculi
-Antonakos | Evangelia | Bronx Community College, CUNY (New York, USA) | Assistant Professor | |  | mathematical logic, modal episemology
+Antonakos | Evangelia | Bronx Community College, CUNY (New York, USA) | Assistant Professor |  | mathematical logic, modal episemology
 Arndt | Dörthe | TU Dresden (Germany) | Postdoc | https://iccl.inf.tu-dresden.de/web/D%C3%B6rthe_Arndt | knowledge representation and reasoning, Rule-based reasoning
 Ayhan | Sara | Ruhr University Bochum, Germany | PhD Student | https://www.pe.ruhr-uni-bochum.de/philosophie/i/logic/team/ayhan.html.en | Proof-theoretic semantics, proof theory, bilateralism, philosophical logic, non-classical logics
 Bagchi | Tista | University of Delhi (India) | Professor, Department of Linguistics | http://www.du.ac.in/index.php?id=270&fmember=2540&cid=319 | semantics and pragmatics, philosophy of mathematics and physics, Philosophy of science focus on ethics
@@ -109,7 +109,7 @@ Markovich | Réka | University of Luxembourg | Research  | https://rekamarkovich
 Martinez | Maria Vanina | Universidad de Buenos Aires (Argentina) | Professor | https://mvmartinez.dc.uba.ar/ | Knowledge representation, non-classical logics, belief revision
 Martins | Ana Teresa | Federal University of Ceará (Brazil) | Associate professor | www.mdcc.ufc.br | Finite Model Theory, Proof Theory, Descriptive Complexity, Non-Classical Logics,
 McSweeney | Michaela | Boston University (USA) | Professor | https://www.michaela-mcsweeney.com/ | philosophy of logic, metaphysics, philosophy of science, metaphysics of logic, epistemology of logic
-Mercier | Adèle | Queen's University (Canada) | Associate Professor | www.ub.edu/grc_logos/people/amercier/proof3.htm | Philosophy of Logic, Philosophy of Thought and Language, modal and non-classical logics, natural language semantics, applications of formal logic, theoretical linguistics, and philosophy of thought and language to social and political debates
+Mercier | Adèle | Queen's University (Canada) | Associate Professor | www.ub.edu/grc_logos/people/amercier/proof3.htm | Philosophy of Logic, Philosophy of Thought and Language, modal and non-classical logics, natural language semantics,  theoretical linguistics
 Mihin | Marissa | Universite Diderot, Paris 7 | Master 2 Student | |  | Foundations, HoTT/Category Theory
 Mittelmann | Munyque | University of Naples Federico II | Research postdoc | https://sites.google.com/view/mittelmann | Logics for Multi-Agent Systems, Strategic Reasoning, Automated Mechanism Design
 Mordido | Andreia | Faculdade de Ciências, Universidade de Lisboa | Assistant Professor | http://www.di.fc.ul.pt/~amordido/ | Programming Languages, Type Systems
