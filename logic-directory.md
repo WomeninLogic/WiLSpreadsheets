@@ -57,11 +57,11 @@ Erascu | Madalina | West University of Timisoara, Romania | Lecturer | merascu.g
 Fernandez | Maribel | King's College London | Professor | https://www.nms.kcl.ac.uk/maribel.fernandez/ | models of computation, programming language semantics, foundations of security
 Fisman | Dana | Ben Gurion University (Israel) | Associate Professor | https://www.cs.bgu.ac.il/~dana/ | Automata and Formal Language Theory, Temporal Logic, Computational Learning Theory
 Floyd | Juliet | Boston University | Full Professor | http://www.bu.edu/philo/people/faculty/full-time/juliet-floyd/ | Philosophy of logic, History of Logic, Kant, Goedel, Frege, Russell, Wittgenstein
-Franchella | Miriam | Milan University (Italy) | Associate professor | | miriam.franchella at unimi.it | philosophy of logic, history of logic, Logic and society, Intuitionism
+Franchella | Miriam | Milan University (Italy) | Associate professor | miriam.franchella at unimi.it | philosophy of logic, history of logic, Logic and society, Intuitionism
 Franklin | Johanna | Hofstra University (USA) | Associate Professor | https://people.hofstra.edu/Johanna_N_Franklin/ | mathematical logic, computability theory, algorithmic randomness, effective structure theory
-Friedman | Shoshana | KCC-City University of New York (USA) | Associate Professor | |  | Mathematical logic, Set theory
+Friedman | Shoshana | KCC-City University of New York (USA) | Associate Professor |  | Mathematical logic, Set theory
 Gamboa Guzman | Laura Paola | Iowa State University (USA) | PhD Student | https://sites.google.com/view/lpgamboa/home | Modal logic, temporal logic, model checking, epistemic logic, rough set theory, mathematical logic
-Garbayo | Luciana | University of Central Florida | Assistant Professor | |  | Computation and Scientific Methodology , Epistemology, Game Theoretic Semantics, Decision Science,  Model theory, Sheaves, Cohomology
+Garbayo | Luciana | University of Central Florida | Assistant Professor |  | Computation and Scientific Methodology , Epistemology, Game Theoretic Semantics, Decision Science,  Model theory, Sheaves, Cohomology
 Georgieva | Lilia | Heriot Watt University (UK) | Lecturer | https://www.linkedin.com/in/liliageorgievageorgieva/ | automated reasoning, knowledge representation, theorem proving , non-classical logic
 Gheerbrant | Amelie | University of Edinburgh (Scotland) | Research postdoc | http://homepages.inf.ed.ac.uk/agheerbr/ | mathematical logic, theoretical computer science, model theory, database theory
 Ghidini | Chiara | Fondazione Bruno Kessler (FBK) | Senior researcher | https://dkm.fbk.eu/ghidini/ | knowledge representation, mathematical logic
