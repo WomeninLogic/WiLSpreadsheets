@@ -36,13 +36,13 @@ Canavotto | Ilaria | ILLC -University of Amsterdam (Netherlands) | Postdoctoral 
 Cholodovskis | Ana | MCMP - Munich (Germany) | PhD Fellow | https://www.mcmp.philosophie.uni-muenchen.de/people/doct_fellows/cholodovskis_ana/index.html | Logic, Formal Epistemology, Logic of Demonstratives, Belief Revision, Non-Classical Logics
 Christoff | Zoé | University of Groningen (NL)  | Assistant professor & Rosalind Franklin Fellow | www.zoechristoff.com | Logics for social networks, Dynamic Epistemic Logic,  Judgment aggregation theory, social epistemology.
 Ciabattoni | Agata | Institute of Computer Languages (TU Wien,  Austria) | Full Professor | http://www.logic.at/staff/agata/ | Non-classical logic, Proof Theory
-Clark-Younger | Hannah | University of Otago (New Zealand) | PhD Candidate | |  | Philosophical Logic, Imperative Logic
+Clark-Younger | Hannah | University of Otago (New Zealand) | PhD Candidate |  | Philosophical Logic, Imperative Logic
 Cohen | Liron | Ben Gurion University (Israel) | assistant professor | http://www.cs.bgu.ac.il/~cliron | type theory, proof theory, foundations of mathematics, programming languages
 Compagnoni | Adriana | Stevens Institute of Technology | Associate Professor | https://scholar.google.com/citations?user=S-zXJGUAAAAJ&hl=en | Programming Languages, Computational Biology, Computer Security
 Coraglia | Greta | University of Genoa (Italy) | PhD Student | https://etagreta.github.io/ | Categorical logic, theoretical computer science
 Cordero | Penélope | CONICET - Universidad Nacional del Litoral | Adjoint Professor |  | modal logic, fuzzy epistemic logic, Mathematics,
 Cresto | Eleonora | CONICET - Universidad de Buenos Aires (Argentina) | Professor | http://www.accionfilosofica.com/integrantes/integrante.pl?id=5 | formal epistemology, decision theory, philosophy of science, belief revision, cognitive decision theory
-Daphne | Wang | UCL (UK) | PhD Student | |  | formal semantics of natural language, intuitionistic logic, quantum logic
+Daphne | Wang | UCL (UK) | PhD Student |  | formal semantics of natural language, intuitionistic logic, quantum logic
 Dardha | Ornela | University of Glasgow (UK) | Lecturer | http://www.dcs.gla.ac.uk/~ornela/ | Programming Languages, Formal Methods
 Davis | Ruth E. | Santa Clara University (USA) | Professor | http://www.cse.scu.edu/~rdavis/html/homepage.html | logic and semantics of programming languages
 Davoren | Jen | University of Melbourne | Senior Lecturer | http://people.eng.unimelb.edu.au/davoren/ | Computer Science Logics
