@@ -35,8 +35,7 @@ Libkind | Sophie | Stanford University | PhD student | |
 Maietti | Maria Emilia (Milly) | Università degli Studi di Padova (Italy) | Associate Professor | https://www.math.unipd.it/~maietti/ | categorical logic, type theory
 Mantovani | Sandra | Università of Milan (Italy) | Professor of Mathematics | | categorical algebra
 Master | Jade | UC Riverside (UCR) | PhD Student | https://sites.google.com/view/jadeedenstarmaster/home | Applied category theory, Petri nets
-Mehrnoosh | Sadrzadeh | University College London | Reader in CS | https://msadrzadeh.com |
-Sadrzadeh | Sadrzadeh Mehrnoosh | UCL (UK) | Associate professor | https://msadrzadeh.com,algebraic logic, sequent calculi, substructural logics, Lambek Calculus, modal logic
+Sadrzadeh |  Mehrnoosh | UCL (UK) | Reader in CS | https://msadrzadeh.com | algebraic logic, sequent calculi, substructural logics, Lambek Calculus, modal logic
 Mejia | Adriana | Universidad del Norte (Colombia) | Assistant professor | | Tensor categories, module categories,hopf algebras
 Müller | Monique | Universidade Federal de São João del-Rei (MG-Brazil) | Assistant Professor | https://sites.google.com/site/moniquemtm | tensor categories, fusion categories, module categories
 Nair | Sandra | University of Michigan, Ann Arbor | PhD student | | arithmetic geometry and category theory
