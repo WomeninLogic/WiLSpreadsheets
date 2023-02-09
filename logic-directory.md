@@ -117,7 +117,7 @@ Moser | Shelby | University of Kent (UK) | PhD Candidate |   | Analytic Aestheti
 Müller | Sandra | TU Wien, Austria | Senior researcher | https://dmg.tuwien.ac.at/sandramueller/ | Mathematical logic, Set theory, Inner model theory
 Nalon | Cláudia | University of Brasília (Brazil) | Associate Professor | http://www.cic.unb.br/~nalon | proof theory, non-classical logics, resolution calculus, combined modal logics,
 Namuduri | Manojna | École normale supérieure - Paris | Master 1 Student |   | mathematical logic, categorical quantum mechanics, automated theorem proving, foundations of physics
-Nantes | Daniele | Universidade de Brasília (Brazil)  |  |  Lambda-Calculus, Nominal Techniques, Process Calculus,
+Nantes | Daniele | Universidade de Brasília (Brazil)  |  |  | Lambda-Calculus, Nominal Techniques, Process Calculus,
 Negri | Sara | University of Genoa | Professor | https://sites.google.com/view/saranegri/home | Proof theory, non-classical logics, Formal epistemology, constructive mathematics
 Nunes de Medeiros | Maria da Paz | Federal University of Rio Grande do Norte (Brazil) | Professor |  | modal logic, theory of  knowledge, proof  theory,
 Ogborn | Anne | SWI-Prolog (global) | assistant bit twiddler | http://swi-prolog.org | logic programming
@@ -127,7 +127,7 @@ Ott | Claire | Technical University Darmstadt (Germany) | PhD student | https://
 Ozaki | Ana | University of Bergen | Associate professor | https://www.uib.no/en/persons/Ana.Ozaki | knowledge representation and reasoning, description logics, ontologies, knowledge graphs, computational learning theory, machine learning
 Cruz  |  Ângela Maria Paiva | Federal University of Rio Grande do Norte (Brazil) | Professor |  | foundations of geometry, theory of  knowledge, proof  theory,
 Patel | Rehana | Olin College of Engineering (USA) | Visiting Assistant Professor | http://www.olin.edu/faculty/faculty_profile.aspx?FacultyId=70 | Mathematical logic, model theory, applications of model theory to combinatorics
-Pelgrom | Nemi | Ludwig-Maximilian Universitet München | PhD Student, Lecturer |  | Inductive logic programming, statistical relational AI, foundations of mathematics, philosophy of mathematics, philosophy of science
+Pelgrom | Nemi | Ludwig-Maximilian Universitet München | PhD Student, Lecturer |  | Inductive logic programming, statistical relational AI, foundations of mathematics, 
 Petkovic Komel | Anja | TU Wien, Austria | Research postdoc | https://anjapetkovic.com/ | Type theory, proof assistant, automated theorem prover
 Picollo | Lavinia | National University of Singapore | Associate professor | https://sites.google.com/site/laviniapicollo/ | philosophical logic, formal metaphysics, and the philosophy of logic and mathematics
 Pientka | Brigitte | McGill University | Associate professor | http://www.cs.mcgill.ca/~bpientka | Programming Languages, Theorem Proving; constructive logic and type theory
@@ -135,7 +135,7 @@ Pigozzi | Gabriella | LAMSADE - Université Paris Dauphine (France) | Associate 
 Pimentel | Elaine | Federal University of Rio Grande do Norte (Brazil) | Full Professor | https://sites.google.com/site/elainepimentel/ | Proof theory, Lambda-calculus, Linear logic, Specification and verification of logical and computational systems,
 Pinchinat | Sophie | IRISA/Univ Rennes | Professor | https://people.irisa.fr/Sophie.Pinchinat/ | Modal logic, automata, games, imperfect information, knowledge, model and formula synthesis, strategic reasoning, multi-agent systems
 Poggiolesi | Francesca | Université Paris 1 Panthéon - Sorbonne (France) | Associate professor | https://sites.google.com/site/poggiolesi/home |  Modal Logic, Proof Theory, Explanation, Explanatory proofs 
-Prince | Tephilla | Indian Institute of Technology Dharwad, India (IITDh) | PhD Student |  | Mathematical Logic , First Order Logic, Modal Logic, LTL ,Formal Methods, Model Checking, Temporal logic specifications, SAT Solving, Applications of Logic and automata theory to Model Checking
+Prince | Tephilla | Indian Institute of Technology Dharwad, India (IITDh) | PhD Student |  | Mathematical Logic, Modal Logic, LTL, Model Checking, Temporal logic specifications, SAT Solving
 Pérez-Ilzarbe | Paloma | University of Navarra | Associate professor | http://www.unav.es/filosofia/pilzarbe1/ | History of logic, , Medieval and post-medieval logic, Women in the history of logic (19th-20th centuries)
 Quinon | Paula | Lund University (Sweden) | Researcher | http://lu.academia.edu/paulaquinon | Philosophy of Mathematics, Logic of everyday reasonings, Axiomatic arithmetic, Logical competence, Number concept
 Ramharter | Esther | Universität Wien (Austria) |  | http://homepage.univie.ac.at/esther.ramharter/ | philosophical logic
@@ -148,7 +148,7 @@ Rozier | Kristin Yvonne | Iowa State University (USA) | Assistant Professor | ht
 Rubin | Mariela | IIF-CONICET/UBA | PhD Student | https://iif.conicet.gov.ar/becarios/mariela-rubin/ |  philosophical logic, formal epistemology, indicative conditionals, inferentialism
 Rumberg | Antje | Utrecht University | PhD researcher | http://www.uu.nl/hum/staff/ASRumberg/0 | philosophical logic, mathematical logic, history of logic, philosophy of language, linguistics, branching space-time, Bolzano's logic, formal semantics
 Russell | Gillian | Australian Catholic University, Dianoia Institute of Philosophy (Australia) | Professor | https://gillianrussell.net/ | Philosophical logic, philosophy of logic, philosophy of language
-Sadrzadeh | Mehrnoosh | Queen Mary University of London (UK) | Senior Lecturer and EPSRC Career Acceleration Fellow | http://www.eecs.qmul.ac.uk/people/view/33472/dr-mehrnoosh-sadrzadeh | Mathematical logic, Artificial Intelligence, Compositional Distributional Semantics, Category Theoretical Models of Natural Language, Pregroup Grammars
+Sadrzadeh | Mehrnoosh | Queen Mary University of London (UK) | Senior Lecturer and EPSRC Career Acceleration Fellow | http://www.eecs.qmul.ac.uk/people/view/33472/dr-mehrnoosh-sadrzadeh |  Artificial Intelligence, Compositional Distributional Semantics, Category Theoretical Models of Natural Language, Pregroup Grammars
 Safari | Roghieh | Institute for Research in Fundamental Sciences(IPM,  Iran) | Researcher |  | Mathematical logic, Computational logic, continuous model theory, model theory of operator algebra
 Sagi | Gil | Haifa University (Israel) | Lecturer | https://gilisagi.wixsite.com/gil-sagi | Philosophy of logic , Philosophy of language, Logical consequence, formality, logical terms, Logic and natural language, History of the philosophy of logic (Frege, Tarski, Carnap)
 Salgado | Isa | Universidade de Brasília | Student | |  | knowledge representation, Computation Logic, Ontology
@@ -160,22 +160,22 @@ Sher | Gila | UCSD (USA) | Professor | http://philosophyfaculty.ucsd.edu/faculty
 Siders | Annika | University of Helsinki (Finland) | Research postdoc |  | Proof Theory, Constuctivism
 Silva | Alexandra | UCL (UK) | Professor | http://www.alexandrasilva.org |
 Simona | Simona | University of Sheffield | Masters Student |   | Computing, Machine Learning and AI, Algorithms
-Smets | Sonja | ILLC -- University of Amsterdam (Netherlands) | Full Professor | https://sites.google.com/site/thesonjasmetssite/ | philosophical logic, mathematical logic, philosophy of quantum physics, Quantum logic, logic in AI, formal epistemology, logical foundations of quantum theory, epistemic networks, quantum communication protocols
+Smets | Sonja | ILLC -- University of Amsterdam (Netherlands) | Full Professor | https://sites.google.com/site/thesonjasmetssite/ |  philosophy of quantum physics, Quantum logic, logic in AI, formal epistemology, epistemic networks, quantum communication protocols
 Sokolova | Ana | University of Salzburg | Associate Professor | http://cs.uni-salzburg.at/~anas/ | Coalgebra, Concurrency, Probabilistic Systems, Algebra, Verification
 Solaki | Anthia | Dutch Organization for Applied Scientific Research (TNO) | Research Scientist | https://sites.google.com/view/anthiasolaki/ | Dynamic epistemic logics, logics for social networks, formal epistemology, knowledge graphs, human-machine teaming
 Soskova | Alexandra | Sofia University, Sofia | Asociate Professor | https://store.fmi.uni-sofia.bg/fmi/logic/asoskova/ | Computability, Effective Model Theory, Enumeration reducibilty, Degree Spectra, Jump of a structure
 Sterrett | Susan G | Wichita State University, Kansas, USA | Full Professor | https://www.susangsterrett.com/ | Philosophy of Science , AI/Philosophical Logic/PhilMind
 Ternovska | Evgenia | Simon Fraser University (Canada) | | www.cs.sfu.ca/~ter |  | Computational logic
-Terzian | Giulia | University of Bristol (UK) | Teaching fellow | http://www.bristol.ac.uk/school-of-arts/people/giulia-terzian/overview.html | Philosophical logic, Philosophy of maths, metaphysics, Formal theories of truth, Norms of truth/ abstraction/ set theory
+Terzian | Giulia | University of Bristol (UK) | Teaching fellow | http://www.bristol.ac.uk/school-of-arts/people/giulia-terzian/overview.html | Philosophical logic, Philosophy of maths, metaphysics, Formal theories of truth,  set theory
 Thalos | Mariam | Utah (USA) | Professor | http://www.thalos.web.utah.edu | Philosophy of logic, philosophy of science, philosophy of physics, Philosophy of decision, Philosophy of mathematics
 Turhan | Anni-Yasmin | TU Dresden (Germany) | Senior researcher |  | knowledge represenation & reasoning, Description logics, ontology engineering, temporal reasoning, vagueness
-Uckelman | Sara L. | Durham University | Assistant professor | http://community.dur.ac.uk/s.l.uckelman | philosophical logic, mathematical logic, history of logic, philosophy of language, philosophy of math, medieval logic, history of logic, modal and dynamic logic
+Uckelman | Sara L. | Durham University | Assistant professor | http://community.dur.ac.uk/s.l.uckelman |  history of logic, philosophy of language, philosophy of math, medieval logic, history of logic, modal and dynamic logic
 van der Schaar | Maria | University of Leiden | assistant professor | http://www.hum.leidenuniv.nl/filosofie/organisatie/staf/schaar.html | philosophy of logic, history of logic, theory of judgement, constructive type theory, origins of analytic philosophy
 van Wierst | Pauline | Scuola Normale Superiore (Italy) | PhD Candidate | | Philosophy of Logic, Philosophy of Mathematics, Ideals of mathematical proof (grounding), Bolzano's logic
 VanDieren | Monica | IBM, Quantum Industry & Technical Services (USA) | Learning Strategist | [https://vandieren.github.io/](https://vandieren.github.io/) | quantum computing, model theory, non-elementary classes, set theory
 Veloso | Sheila | UFRJ | Professor |  |
 Verbrugge | Rineke | University of Groningen (Netherlands) | Full Professor | https://rinekeverbrugge.nl/ | Mathematical logic, computational logic, Cognitive science, Logics for multi-agent systems, Formal models of social cognition
-Verity | Florrie | Australian National University | PhD Student | type theory, categorical logic, homotopy type theory, formal semantics of natural language, interactive theorem provers
+Verity | Florrie | Australian National University | PhD Student | | type theory, categorical logic, homotopy type theory, formal semantics of natural language, interactive theorem provers
 Villavicencio | Aline | University of Sheffield (UK) | Professor | http://www.inf.ufrgs.br/~avillavicencio/ | Natural Language Processing, Lexical Semantics, Artificial Intelligence, Cognitive Computational Models
 Wassermann | Renata | University of São Paulo (Brazil) | Associate Professor | http://www.ime.usp.br/~renata/ | Knowledge representation, non-classical logics, belief revision,
 Wenmackers | Sylvia | University of Groningen (Netherlands) | Research postdoc | http://www.sylviawenmackers.be/ | Mathematical logic, model theory, Philosophy of probability, philosophy of science, Non-standard models, hyperreals, Infinitesimal probabilities, (In-)deterministic models
