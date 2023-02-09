@@ -22,11 +22,11 @@ Besler | Gabriela | Department of Philosophy, University of Silesia, Poland | as
 Biernacka | Malgorzata | Institute of Computer Science, Univerisity of Wroclaw, Poland | assistant professor | | computational logic
 Bilkova | Marta | Czech Academy of Sciences (Czech rep.) | Researcher | https://sites.google.com/view/martabilkova | Logic in computer science, Non-classical logics, Modal, substructural, coalgebraic and paraconsistent logics
 Blanchette | Patricia | U of Notre Dame | Professor | https://www3.nd.edu/~pblanche/ | philosophy of logic, history of logic
-Blasio | Carolina | CLE/IFCH - Unicamp (Brazil) | (in memoriam) | |  | Philosophical logic
+Blasio | Carolina | CLE/IFCH - Unicamp (Brazil) | (in memoriam) |  | Philosophical logic
 Bobzien | Susanne |  University of Oxford | Professor and Senior researcher |  https://www.asc.ox.ac.uk/person/2155 | Philosophical logic, Hist logic, Vagueness, higher-order vagueness, ancient logic 
 Boritchev | Maria | Loria, Inria Nancy Grand-Est (France) | PhD Student, Lecturer | https://members.loria.fr/MBoritchev/ | Formal semantics, pragmatics, computational linguistics
-Borja Macias | Verónica | Universidad Tecnológica de la Mixteca (Mexico) | Professor | |  | Non-classical logic, Logic Programming, Knowledge representation
-Bosman | Bianca | University of Groningen, Netherlands | PhD student | |  | history of logic, , medieval and ancient logics (including Stoic logic), containment
+Borja Macias | Verónica | Universidad Tecnológica de la Mixteca (Mexico) | Professor |  | Non-classical logic, Logic Programming, Knowledge representation
+Bosman | Bianca | University of Groningen, Netherlands | PhD student |  | history of logic, , medieval and ancient logics (including Stoic logic), containment
 Brown | Carolyn | Industry | Chief Information Officer | http://www.cio.co.uk/cio100/ |
 Bueno-Soler | Juliana | Federal University of ABC (Brazil) | Associate Professor | http://lattes.cnpq.br/5824391030945544 | modal logic, non-classical  logics, critical  thinking,
 Bunge | Marta | McGill University  | Emerita Professor (in memoriam) | https://www.researchgate.net/profile/Marta-Bunge | categorical  logic, topos theory, category theory 
