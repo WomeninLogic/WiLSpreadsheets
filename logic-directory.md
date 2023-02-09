@@ -92,15 +92,15 @@ Lange | Karen | Wellesley College (USA) | Associate Professor | https://www.well
 Lapenta | Serafina (Sara) | University of Salerno | Researcher | https://serafinalapenta.weebly.com/ | Algebraic aspects of many-valued logic, Logic and probability
 Latour | Anna | National University of Singapore | Research Fellow | latower.github.io | Boolean Satisfiability, Propositional Model Counting, MaxSAT, Stochastic SAT
 Legg | Catherine | Deakin University | Senior Lecturer | https://www.deakin.edu.au/about-deakin/people/cathy-legg | Logic, American pragmatism, formal ontology, Peirce, Diagrammatic logic,
-Lehan | Vanessa | York University (Canada) | Lecturer | |  | Philosophy of Logic, Methodology in Logic
+Lehan | Vanessa | York University (Canada) | Lecturer | | Philosophy of Logic, Methodology in Logic
 Lehtinen | Karoliina | CNRS, Aix-Marseille Uni | Researcher | http://www.pageperso.lif.univ-mrs.fr/~karoliina.lehtinen/ | Modal and temporal logic, modal mu-calculus, automata, games, verification, synthesis
 Leng | Mary | University of York | Lecturer | http://www.york.ac.uk/philosophy/about/staff/mary-leng/ | Philosophy of mathematics, Philosophical logic, mathematical explanation, logical consequence, Hilbert's legacy
-Lobo | Fernanda | PUC-Rio (Brazil) | Grad student | |  | philosophy of logic, philosophical logic, philosophy of language, temporal logics, inferentialist semantics
-Lockwood | Heidi Howkins | SCSU (USA) | Associate professor | | | philosophical and mathematical logic, modal epistemology, non-standard logics, logic of provability
+Lobo | Fernanda | PUC-Rio (Brazil) | Grad student |  | philosophy of logic, philosophical logic, philosophy of language, temporal logics, inferentialist semantics
+Lockwood | Heidi Howkins | SCSU (USA) | Associate professor | | philosophical and mathematical logic, modal epistemology, non-standard logics, logic of provability
 D'Ottaviano | Itala Maria Loffredo| University of Campinas(Brazil) | Full Professor | http://www.cle.unicamp.br | Non-classical Logic, Algebraic Logic, History and Philosophy of Logic,
 Loparic | Andrea | DF-USP(BR) | (in memoriam) |  | Valuation Semantics, Decidability, Non-classical logics 
 Lopez | Adele | N/A (USA) | Hobbyist | http://adelelopez.com |
-López | Sandra M. | University of Valladolid (Spain) | Assistant professor | |  | Relevance logics, Modal logics, 3-valued logics, 4-valued logics
+López | Sandra M. | University of Valladolid (Spain) | Assistant professor |  | Relevance logics, Modal logics, 3-valued logics, 4-valued logics
 MacDougall | Margaret | University of Edinburgh (Scotland) | Medical Statistician and Researcher in Education | http://www.chs.med.ed.ac.uk/people/staffProfile.php?profile=mmacdoug | philosophy of mathematics and philosophy of logic, constructive and semi-constructive set theories, Poincaré's philosophy of mathematics, nominalism, mathematical intuition and logical intuition
 Magidor | Ofra | University of Oxford | CUF lecturer | http://users.ox.ac.uk/~ball1646 | Philosophical Logic, vagueness, strict finitism
 Magureanu | Anca | University of Bucharest (Romania) | Professor | | |
@@ -110,14 +110,14 @@ Martinez | Maria Vanina | Universidad de Buenos Aires (Argentina) | Professor | 
 Martins | Ana Teresa | Federal University of Ceará (Brazil) | Associate professor | www.mdcc.ufc.br | Finite Model Theory, Proof Theory, Descriptive Complexity, Non-Classical Logics,
 McSweeney | Michaela | Boston University (USA) | Professor | https://www.michaela-mcsweeney.com/ | philosophy of logic, metaphysics, philosophy of science, metaphysics of logic, epistemology of logic
 Mercier | Adèle | Queen's University (Canada) | Associate Professor | www.ub.edu/grc_logos/people/amercier/proof3.htm | Philosophy of Logic, Philosophy of Thought and Language, modal and non-classical logics, natural language semantics,  theoretical linguistics
-Mihin | Marissa | Universite Diderot, Paris 7 | Master 2 Student | |  | Foundations, HoTT/Category Theory
+Mihin | Marissa | Universite Diderot, Paris 7 | Master 2 Student |  | Foundations, HoTT/Category Theory
 Mittelmann | Munyque | University of Naples Federico II | Research postdoc | https://sites.google.com/view/mittelmann | Logics for Multi-Agent Systems, Strategic Reasoning, Automated Mechanism Design
 Mordido | Andreia | Faculdade de Ciências, Universidade de Lisboa | Assistant Professor | http://www.di.fc.ul.pt/~amordido/ | Programming Languages, Type Systems
-Moser | Shelby | University of Kent (UK) | PhD Candidate | |  | Analytic Aesthetics, , interactivity, digital arts, the computer
+Moser | Shelby | University of Kent (UK) | PhD Candidate |   | Analytic Aesthetics, , interactivity, digital arts, the computer
 Müller | Sandra | TU Wien, Austria | Senior researcher | https://dmg.tuwien.ac.at/sandramueller/ | Mathematical logic, Set theory, Inner model theory
 Nalon | Cláudia | University of Brasília (Brazil) | Associate Professor | http://www.cic.unb.br/~nalon | proof theory, non-classical logics, resolution calculus, combined modal logics,
-Namuduri | Manojna | École normale supérieure - Paris | Master 1 Student | |  | mathematical logic, categorical quantum mechanics, automated theorem proving, foundations of physics
-Nantes | Daniele | Universidade de Brasília (Brazil)  |  |  |  Lambda-Calculus, Nominal Techniques, Process Calculus,
+Namuduri | Manojna | École normale supérieure - Paris | Master 1 Student |   | mathematical logic, categorical quantum mechanics, automated theorem proving, foundations of physics
+Nantes | Daniele | Universidade de Brasília (Brazil)  |  |  Lambda-Calculus, Nominal Techniques, Process Calculus,
 Negri | Sara | University of Genoa | Professor | https://sites.google.com/view/saranegri/home | Proof theory, non-classical logics, Formal epistemology, constructive mathematics
 Nunes de Medeiros | Maria da Paz | Federal University of Rio Grande do Norte (Brazil) | Professor |  | modal logic, theory of  knowledge, proof  theory,
 Ogborn | Anne | SWI-Prolog (global) | assistant bit twiddler | http://swi-prolog.org | logic programming
@@ -135,7 +135,7 @@ Pigozzi | Gabriella | LAMSADE - Université Paris Dauphine (France) | Associate 
 Pimentel | Elaine | Federal University of Rio Grande do Norte (Brazil) | Full Professor | https://sites.google.com/site/elainepimentel/ | Proof theory, Lambda-calculus, Linear logic, Specification and verification of logical and computational systems,
 Pinchinat | Sophie | IRISA/Univ Rennes | Professor | https://people.irisa.fr/Sophie.Pinchinat/ | Modal logic, automata, games, imperfect information, knowledge, model and formula synthesis, strategic reasoning, multi-agent systems
 Poggiolesi | Francesca | Université Paris 1 Panthéon - Sorbonne (France) | Associate professor | https://sites.google.com/site/poggiolesi/home |  Modal Logic, Proof Theory, Explanation, Explanatory proofs 
-Prince | Tephilla | Indian Institute of Technology Dharwad, India (IITDh) | PhD Student | |  | Mathematical Logic , First Order Logic, Modal Logic, LTL ,Formal Methods, Model Checking, Temporal logic specifications, SAT Solving, Applications of Logic and automata theory to Model Checking
+Prince | Tephilla | Indian Institute of Technology Dharwad, India (IITDh) | PhD Student |  | Mathematical Logic , First Order Logic, Modal Logic, LTL ,Formal Methods, Model Checking, Temporal logic specifications, SAT Solving, Applications of Logic and automata theory to Model Checking
 Pérez-Ilzarbe | Paloma | University of Navarra | Associate professor | http://www.unav.es/filosofia/pilzarbe1/ | History of logic, , Medieval and post-medieval logic, Women in the history of logic (19th-20th centuries)
 Quinon | Paula | Lund University (Sweden) | Researcher | http://lu.academia.edu/paulaquinon | Philosophy of Mathematics, Logic of everyday reasonings, Axiomatic arithmetic, Logical competence, Number concept
 Ramharter | Esther | Universität Wien (Austria) |  | http://homepage.univie.ac.at/esther.ramharter/ | philosophical logic
@@ -143,7 +143,7 @@ Real | Livy | University of São Paulo (Brazil) | Associated Researcher | livyre
 Reis | Giselle | Carnegie Mellon University (Qatar) | Associate Teaching Professor | http://www.gisellereis.com/ | Structural proof theory, Linear logic, Theorem proving, Logical frameworks
 Rini | Adriane | Massey University, NZ | Professor | https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=330630 | History of Logic, Modal and Tense Logic, Aristotle, Formal Semantics, Metaphysics
 Rizkallah | Christine | University of New South Wales (Sydney, Australia) | Assistant Professor | http://www.cse.unsw.edu.au/~crizkallah/ | Formal Verification, Programming Languages
-Rogerson | Susan | Monash University (Australia) | Grad student | |  | Curry's Paradox, substructural logics, proof theory
+Rogerson | Susan | Monash University (Australia) | Grad student |  | Curry's Paradox, substructural logics, proof theory
 Rozier | Kristin Yvonne | Iowa State University (USA) | Assistant Professor | http://laboratory.temporallogic.org/ | Formal Methods: Model Checking, Runtime Verification, Temporal Logic Specification and Satisfiability, LTL, MLTL, SMV-language and related modeling
 Rubin | Mariela | IIF-CONICET/UBA | PhD Student | https://iif.conicet.gov.ar/becarios/mariela-rubin/ |  philosophical logic, formal epistemology, indicative conditionals, inferentialism
 Rumberg | Antje | Utrecht University | PhD researcher | http://www.uu.nl/hum/staff/ASRumberg/0 | philosophical logic, mathematical logic, history of logic, philosophy of language, linguistics, branching space-time, Bolzano's logic, formal semantics
@@ -155,11 +155,11 @@ Salgado | Isa | Universidade de Brasília | Student | |  | knowledge representat
 Sattler | Uli | University of Manchester | Professor | http://www.cs.man.ac.uk/~sattler/ | Logic-based knowledge representation, automated reasoning, Description Logic, Ontology engineering
 Schmidt | Renate | University of Manchester | University Reader | http://www.cs.man.ac.uk/~schmidt/ | Logic, Automated reasoining, Ontology-based knowledge processing, description logics, modal logics, relation algebras
 Schulz | Katrin | ILLC -- University of Amsterdam (Netherlands) | Assistant professor | http://home.medewerker.uva.nl/k.schulz/ | Formal Semantics, Philosophical Logic, Conditionals, Pragmatics, causation
-Senadheera | Gihanee | Southern Illinois University, Carbondale, USA | PhD Student | |  | Logic, Computability theory
+Senadheera | Gihanee | Southern Illinois University, Carbondale, USA | PhD Student |  | Logic, Computability theory
 Sher | Gila | UCSD (USA) | Professor | http://philosophyfaculty.ucsd.edu/faculty/gsher/index.htm | Philosophy of Logic, Epistemology, Truth, Philosophical Foundations of Logic, Relations between Logic & Mathematics, Truth in Logic & Mathematics
-Siders | Annika | University of Helsinki (Finland) | Research postdoc | |  | Proof Theory, Constuctivism
+Siders | Annika | University of Helsinki (Finland) | Research postdoc |  | Proof Theory, Constuctivism
 Silva | Alexandra | UCL (UK) | Professor | http://www.alexandrasilva.org |
-Simona | Simona | University of Sheffield | Masters Student | |  | Computing, Machine Learning and AI, Algorithms
+Simona | Simona | University of Sheffield | Masters Student |   | Computing, Machine Learning and AI, Algorithms
 Smets | Sonja | ILLC -- University of Amsterdam (Netherlands) | Full Professor | https://sites.google.com/site/thesonjasmetssite/ | philosophical logic, mathematical logic, philosophy of quantum physics, Quantum logic, logic in AI, formal epistemology, logical foundations of quantum theory, epistemic networks, quantum communication protocols
 Sokolova | Ana | University of Salzburg | Associate Professor | http://cs.uni-salzburg.at/~anas/ | Coalgebra, Concurrency, Probabilistic Systems, Algebra, Verification
 Solaki | Anthia | Dutch Organization for Applied Scientific Research (TNO) | Research Scientist | https://sites.google.com/view/anthiasolaki/ | Dynamic epistemic logics, logics for social networks, formal epistemology, knowledge graphs, human-machine teaming
