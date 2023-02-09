@@ -61,19 +61,19 @@ Franchella | Miriam | Milan University (Italy) | Associate professor | miriam.fr
 Franklin | Johanna | Hofstra University (USA) | Associate Professor | https://people.hofstra.edu/Johanna_N_Franklin/ | mathematical logic, computability theory, algorithmic randomness, effective structure theory
 Friedman | Shoshana | KCC-City University of New York (USA) | Associate Professor |  | Mathematical logic, Set theory
 Gamboa Guzman | Laura Paola | Iowa State University (USA) | PhD Student | https://sites.google.com/view/lpgamboa/home | Modal logic, temporal logic, model checking, epistemic logic, rough set theory, mathematical logic
-Garbayo | Luciana | University of Central Florida | Assistant Professor |  | Computation and Scientific Methodology , Epistemology, Game Theoretic Semantics, Decision Science,  Model theory, Sheaves, Cohomology
+Garbayo | Luciana | University of Central Florida | Assistant Professor |  | Epistemology, Game Semantics, Decision Science,  Model theory, Sheaves, Cohomology
 Georgieva | Lilia | Heriot Watt University (UK) | Lecturer | https://www.linkedin.com/in/liliageorgievageorgieva/ | automated reasoning, knowledge representation, theorem proving , non-classical logic
 Gheerbrant | Amelie | University of Edinburgh (Scotland) | Research postdoc | http://homepages.inf.ed.ac.uk/agheerbr/ | mathematical logic, theoretical computer science, model theory, database theory
 Ghidini | Chiara | Fondazione Bruno Kessler (FBK) | Senior researcher | https://dkm.fbk.eu/ghidini/ | knowledge representation, mathematical logic
 Ghilezan | Silvia | University of Novi Sad | Professor | http://imft.ftn.uns.ac.rs/~silvia | mathematical logic, theoretical computer science, type theory, concurrency
 Ghourabi | Fadoua | Ochanomizu University (Japan) | Lecturer | ghourabi.net/fadoua | theorem proving/qualitative reasoning, origami geometry, automated algebraic provers
-Gierasimczuk | Nina | Technical University of Denmark | associate professor | http://ninagierasimczuk.com/ | mathematical and philosophical logic, formal epistemology and philosophy of science, learning theory, epistemic logic
-Glavaničová | Daniela | Comenius University (Slovakia) | PhD student | |  | Deontic logic, Hyperintensional logic, hyperintensional deontic logic, multivalued deontic logic, philosophy of fiction
+Gierasimczuk | Nina | Technical University of Denmark | associate professor | http://ninagierasimczuk.com/ | mathematical and philosophical logic, philosophy of science, learning theory, epistemic logic
+Glavaničová | Daniela | Comenius University (Slovakia) | PhD student | | Deontic logic, Hyperintensional logic, hyperintensional deontic logic, multivalued deontic logic, philosophy of fiction
 Golińska-Pilarek | Joanna | Institute of Philosophy at the University of Warsaw (Poland) | assistant professor | http://joannagolinska.com/ | philosophical and mathematical logic, analytic philosophy, non-classical logics, non-Fregean logics
 Gómez Álvarez | Lucia | TU Dresden (Germany) | postdoc | https://iccl.inf.tu-dresden.de/web/Luc%C3%ADa_G%C3%B3mez_%C3%81lvarez | modal logic, knowledge representation and reasoning, linguistics
 Ghosh | Sujata | Indian Statistical Institute, Chennai (India) | Associate Professor | https://www.isichennai.res.in/~sujata | Games, strategies and logics, Knowledge and belief, Social choices, Social cognition, Reasoning in individuals with ASD
 Hansen | Helle Hvid | University of Groningen (Netherlands) | Associate Professor | https://www.rug.nl/staff/h.h.hansen/ | modal logic, coalgebra, category theory, dynamic coalgebraic logics, coalgebraic modal logic, non-normal modal logics, neighbourhood semantics
-Heydari Tabar | Asmae | Technical University of Darmstadt (Germany) | PhD Student | |  | First-order logic, Formal specification and verification of software
+Heydari Tabar | Asmae | Technical University of Darmstadt (Germany) | PhD Student |   | First-order logic, Formal specification and verification of software
 Hogarth Rossiter | Sarah | University of Western Ontario (Canada) | PhD Candidate | | shogart@uwo.ca | History of Logic, Late mediaeval logic, Thomas Bradwardine, Future contingents
 Huertas | Antonia | Universitat Oberta de Catalunya (Barcelona, Spain) | Associate professor | http://huertas.wordpress.com | mathematical logic, knowledge representation, modal logic, e-learning of logic
 Hundleby | Catherine | University of Windsor (Canada) | Associate Professor | http://www.uwindsor.ca/hundleby/ | Informal Logic, Feminist critiques of logic, argumentation theory, fallacies, scientific reasoning
