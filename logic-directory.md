@@ -111,6 +111,7 @@ Martins | Ana Teresa | Federal University of Ceará (Brazil) | Associate profess
 McSweeney | Michaela | Boston University (USA) | Professor | https://www.michaela-mcsweeney.com/ | philosophy of logic, metaphysics, philosophy of science, metaphysics of logic, epistemology of logic
 Mercier | Adèle | Queen's University (Canada) | Associate Professor | www.ub.edu/grc_logos/people/amercier/proof3.htm | Philosophy of Logic, Philosophy of Thought and Language, modal and non-classical logics, natural language semantics,  theoretical linguistics
 Mihin | Marissa | Universite Diderot, Paris 7 | Master 2 Student |  | Foundations, HoTT/Category Theory
+Mitrovic | Jelena | University of Passau (Germany) & Institute for AI (Serbia)| Assistant Professor | https://ca-roll.github.io | Ontology, Natural Language Processing, Knowledge graphs, Large Language models
 Mittelmann | Munyque | University of Naples Federico II | Research postdoc | https://sites.google.com/view/mittelmann | Logics for Multi-Agent Systems, Strategic Reasoning, Automated Mechanism Design
 Mordido | Andreia | Faculdade de Ciências, Universidade de Lisboa | Assistant Professor | http://www.di.fc.ul.pt/~amordido/ | Programming Languages, Type Systems
 Moser | Shelby | University of Kent (UK) | PhD Candidate |   | Analytic Aesthetics, , interactivity, digital arts, the computer
