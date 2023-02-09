@@ -9,7 +9,7 @@ Abeles | Francine | Kean University | Professor Emerita |   | History of logic i
 Alechina | Natasha | University of Nottingham | Associate Professor | https://scholar.google.co.uk/citations?user=J1ThCVcAAAAJ | Modal logics and multiagent systems
 Aloni | Maria | ILLC -- University of Amsterdam (Netherlands) | Associate Professor | http://maloni.humanities.uva.nl/ | Semantics and pragmatics, Phil language, indefinite reference, dynamic semantics
 Alves | Sandra | University of Porto | Assistant professor | http://www.dcc.fc.up.pt/-sandra | Type theory, Programming Languages, Fornal methods
-Anderson | Gabrielle | University of Aberdeen (UK) | Research postdoc | |  | modal logics and process calculi
+Anderson | Gabrielle | University of Aberdeen (UK) | Research postdoc |  | modal logics and process calculi
 Antonakos | Evangelia | Bronx Community College, CUNY (New York, USA) | Assistant Professor |  | mathematical logic, modal episemology
 Arndt | Dörthe | TU Dresden (Germany) | Postdoc | https://iccl.inf.tu-dresden.de/web/D%C3%B6rthe_Arndt | knowledge representation and reasoning, Rule-based reasoning
 Ayhan | Sara | Ruhr University Bochum, Germany | PhD Student | https://www.pe.ruhr-uni-bochum.de/philosophie/i/logic/team/ayhan.html.en | Proof-theoretic semantics, proof theory, bilateralism, philosophical logic, non-classical logics
@@ -18,8 +18,8 @@ Balzer | Stephanie | Carnegie Mellon University (USA) | Assistant Research Profe
 Banerjee | Mohua | India Institute of Technology | Professor, Department of Mathematics | https://www.iitk.ac.in | Modal Logic, Approximate Reasoning, Rough Sets
 Becher | Verónica | Universidad de Buenos Aires (Argentina) | Associate Professor | http://www.dc.uba.ar/people/profesores/becher/ | Theoretical computer science, computability, complexity, randomness, Kolmogorov complexity,
 Belardinelli | Gaia | University of Copenhagen, Denmark | PhD Student | https://sites.google.com/view/gaiabelardinelli/home | Epistemic Logic, Cognitive Logics, Logical Dynamics
-Besler | Gabriela | Department of Philosophy, University of Silesia, Poland | assistant professor | |  | philosophy of logic, history of logic, (neo)logicism, number's concept, G. Frege's logic
-Biernacka | Malgorzata | Institute of Computer Science, Univerisity of Wroclaw, Poland | assistant professor | | | computational logic
+Besler | Gabriela | Department of Philosophy, University of Silesia, Poland | assistant professor | | philosophy of logic, history of logic, (neo)logicism, number's concept, G. Frege's logic
+Biernacka | Malgorzata | Institute of Computer Science, Univerisity of Wroclaw, Poland | assistant professor | | computational logic
 Bilkova | Marta | Czech Academy of Sciences (Czech rep.) | Researcher | https://sites.google.com/view/martabilkova | Logic in computer science, Non-classical logics, Modal, substructural, coalgebraic and paraconsistent logics
 Blanchette | Patricia | U of Notre Dame | Professor | https://www3.nd.edu/~pblanche/ | philosophy of logic, history of logic
 Blasio | Carolina | CLE/IFCH - Unicamp (Brazil) | (in memoriam) | |  | Philosophical logic
@@ -168,14 +168,14 @@ Sterrett | Susan G | Wichita State University, Kansas, USA | Full Professor | ht
 Ternovska | Evgenia | Simon Fraser University (Canada) | | www.cs.sfu.ca/~ter |  | Computational logic
 Terzian | Giulia | University of Bristol (UK) | Teaching fellow | http://www.bristol.ac.uk/school-of-arts/people/giulia-terzian/overview.html | Philosophical logic, Philosophy of maths, metaphysics, Formal theories of truth, Norms of truth/ abstraction/ set theory
 Thalos | Mariam | Utah (USA) | Professor | http://www.thalos.web.utah.edu | Philosophy of logic, philosophy of science, philosophy of physics, Philosophy of decision, Philosophy of mathematics
-Turhan | Anni-Yasmin | TU Dresden (Germany) | Senior researcher | |  | knowledge represenation & reasoning, Description logics, ontology engineering, temporal reasoning, vagueness
+Turhan | Anni-Yasmin | TU Dresden (Germany) | Senior researcher |  | knowledge represenation & reasoning, Description logics, ontology engineering, temporal reasoning, vagueness
 Uckelman | Sara L. | Durham University | Assistant professor | http://community.dur.ac.uk/s.l.uckelman | philosophical logic, mathematical logic, history of logic, philosophy of language, philosophy of math, medieval logic, history of logic, modal and dynamic logic
 van der Schaar | Maria | University of Leiden | assistant professor | http://www.hum.leidenuniv.nl/filosofie/organisatie/staf/schaar.html | philosophy of logic, history of logic, theory of judgement, constructive type theory, origins of analytic philosophy
-van Wierst | Pauline | Scuola Normale Superiore (Italy) | PhD Candidate | |  | Philosophy of Logic, Philosophy of Mathematics, Ideals of mathematical proof (grounding), Bolzano's logic
+van Wierst | Pauline | Scuola Normale Superiore (Italy) | PhD Candidate | | Philosophy of Logic, Philosophy of Mathematics, Ideals of mathematical proof (grounding), Bolzano's logic
 VanDieren | Monica | IBM, Quantum Industry & Technical Services (USA) | Learning Strategist | [https://vandieren.github.io/](https://vandieren.github.io/) | quantum computing, model theory, non-elementary classes, set theory
 Veloso | Sheila | UFRJ | Professor |  |
 Verbrugge | Rineke | University of Groningen (Netherlands) | Full Professor | https://rinekeverbrugge.nl/ | Mathematical logic, computational logic, Cognitive science, Logics for multi-agent systems, Formal models of social cognition
-Verity | Florrie | Australian National University | PhD Student |  | type theory, categorical logic, homotopy type theory, formal semantics of natural language, interactive theorem provers
+Verity | Florrie | Australian National University | PhD Student | type theory, categorical logic, homotopy type theory, formal semantics of natural language, interactive theorem provers
 Villavicencio | Aline | University of Sheffield (UK) | Professor | http://www.inf.ufrgs.br/~avillavicencio/ | Natural Language Processing, Lexical Semantics, Artificial Intelligence, Cognitive Computational Models
 Wassermann | Renata | University of São Paulo (Brazil) | Associate Professor | http://www.ime.usp.br/~renata/ | Knowledge representation, non-classical logics, belief revision,
 Wenmackers | Sylvia | University of Groningen (Netherlands) | Research postdoc | http://www.sylviawenmackers.be/ | Mathematical logic, model theory, Philosophy of probability, philosophy of science, Non-standard models, hyperreals, Infinitesimal probabilities, (In-)deterministic models
