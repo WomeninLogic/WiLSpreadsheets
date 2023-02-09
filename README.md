@@ -1,4 +1,4 @@
-# WiLSpreadsheets
+# WiL Directories
 
 - [Women in Logic](logic-directory.md)
 - [Women in Category Theory](ct-directory.md)
