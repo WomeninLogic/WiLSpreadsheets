@@ -101,7 +101,7 @@ D'Ottaviano | Itala Maria Loffredo| University of Campinas(Brazil) | Full Profes
 Loparic | Andrea | DF-USP(BR) | (in memoriam) |  | Valuation Semantics, Decidability, Non-classical logics 
 Lopez | Adele | N/A (USA) | Hobbyist | http://adelelopez.com |
 López | Sandra M. | University of Valladolid (Spain) | Assistant professor |  | Relevance logics, Modal logics, 3-valued logics, 4-valued logics
-MacDougall | Margaret | University of Edinburgh (Scotland) | Medical Statistician and Researcher in Education | http://www.chs.med.ed.ac.uk/people/staffProfile.php?profile=mmacdoug | philosophy of mathematics and philosophy of logic, constructive and semi-constructive set theories, Poincaré's philosophy of mathematics, nominalism, mathematical intuition and logical intuition
+MacDougall | Margaret | University of Edinburgh (Scotland) | Medical Statistician and Researcher in Education | http://www.chs.med.ed.ac.uk/people/staffProfile.php?profile=mmacdoug |  constructive and semi-constructive set theories, Poincaré's philosophy of mathematics, nominalism, mathematical  and logical intuition
 Magidor | Ofra | University of Oxford | CUF lecturer | http://users.ox.ac.uk/~ball1646 | Philosophical Logic, vagueness, strict finitism
 Magureanu | Anca | University of Bucharest (Romania) | Professor | | |
 Manzano | María | University of Salamanca | Professor | http://logicae.usal.es/mara | Modal logic and non-classical logic, Higher order logic, History of logic, Tools for teaching logic
