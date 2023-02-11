@@ -127,7 +127,7 @@ Ortiz | Magdalena | Institute of Logic and Computation, TU Wien, Austria | Assis
 Ott | Claire | Technical University Darmstadt (Germany) | PhD student | https://www.psychologie.tu-darmstadt.de/models-of-higher-cognition/mod/mem/claire_ott/claire.en.jsp | Cognitive Science, Mathematical logic, explainable AI for linear programs, category theory
 Ozaki | Ana | University of Bergen | Associate professor | https://www.uib.no/en/persons/Ana.Ozaki | knowledge representation and reasoning, description logics, ontologies, knowledge graphs, computational learning theory, machine learning
 Cruz  |  Ângela Maria Paiva | Federal University of Rio Grande do Norte (Brazil) | Professor |  | foundations of geometry, theory of  knowledge, proof  theory,
-Patel | Rehana | Olin College of Engineering (USA) | Visiting Assistant Professor | http://www.olin.edu/faculty/faculty_profile.aspx?FacultyId=70 | Mathematical logic, model theory, applications of model theory to combinatorics
+Patel | Rehana | Wesleyan University (USA) |  |  | Mathematical logic, model theory, applications of model theory to combinatorics
 Pelgrom | Nemi | Ludwig-Maximilian Universitet München | PhD Student, Lecturer |  | Inductive logic programming, statistical relational AI, foundations of mathematics, 
 Petkovic Komel | Anja | TU Wien, Austria | Research postdoc | https://anjapetkovic.com/ | Type theory, proof assistant, automated theorem prover
 Picollo | Lavinia | National University of Singapore | Associate professor | https://sites.google.com/site/laviniapicollo/ | philosophical logic, formal metaphysics, and the philosophy of logic and mathematics
