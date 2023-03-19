@@ -145,7 +145,7 @@ Reis | Giselle | Carnegie Mellon University (Qatar) | Associate Teaching Profess
 Rini | Adriane | Massey University, NZ | Professor | https://www.massey.ac.nz/massey/expertise/profile.cfm?stref=330630 | History of Logic, Modal and Tense Logic, Aristotle, Formal Semantics, Metaphysics
 Rizkallah | Christine | University of New South Wales (Sydney, Australia) | Assistant Professor | http://www.cse.unsw.edu.au/~crizkallah/ | Formal Verification, Programming Languages
 Rogerson | Susan | Monash University (Australia) | Grad student |  | Curry's Paradox, substructural logics, proof theory
-Rozier | Kristin Yvonne | Iowa State University (USA) | Assistant Professor | http://laboratory.temporallogic.org/ | Formal Methods: Model Checking, Runtime Verification, Temporal Logic Specification and Satisfiability, LTL, MLTL, SMV-language and related modeling
+Rozier | Kristin Yvonne | Iowa State University (USA) | Associate Professor | http://laboratory.temporallogic.org/ | Formal Methods: Model Checking, Runtime Verification, Temporal Logic Specification and Satisfiability, LTL, MLTL, SMV-language and related modeling
 Rubin | Mariela | IIF-CONICET/UBA | PhD Student | https://iif.conicet.gov.ar/becarios/mariela-rubin/ |  philosophical logic, formal epistemology, indicative conditionals, inferentialism
 Rumberg | Antje | Utrecht University | PhD researcher | http://www.uu.nl/hum/staff/ASRumberg/0 | philosophical logic, mathematical logic, history of logic, philosophy of language, linguistics, branching space-time, Bolzano's logic, formal semantics
 Russell | Gillian | Australian Catholic University, Dianoia Institute of Philosophy (Australia) | Professor | https://gillianrussell.net/ | Philosophical logic, philosophy of logic, philosophy of language
