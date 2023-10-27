@@ -54,6 +54,7 @@ Dunfield | Jana | Queen's University (Canada) | Assistant Professor | https://re
 Dutilh Novaes | Catarina | VU Amsterdam (Netherlands) | Professor | cdutilhnovaes.com | Philosophy of Logic, History of Logic, Logic and cognition, Medieval logic
 Eckert | Maureen | UMASS Dartmouth (USA) | Professor | https://philpeople.org/profiles/maureen-eckert | Non-classical logic, Feminist Logic
 Erascu | Madalina | West University of Timisoara, Romania | Lecturer | merascu.github.io | formal methods, symbolic computation
+Felty | Amy | University of Ottawa (Canada) | Professor Emeritus | https://www.site.uottawa.ca/~afelty/ | Formal Methods, Interactive Theorem Proving, Automated Deduction, Logical Frameworks
 Fernandez | Maribel | King's College London | Professor | https://www.nms.kcl.ac.uk/maribel.fernandez/ | models of computation, programming language semantics, foundations of security
 Fisman | Dana | Ben Gurion University (Israel) | Associate Professor | https://www.cs.bgu.ac.il/~dana/ | Automata and Formal Language Theory, Temporal Logic, Computational Learning Theory
 Floyd | Juliet | Boston University | Full Professor | http://www.bu.edu/philo/people/faculty/full-time/juliet-floyd/ | Philosophy of logic, History of Logic, Kant, Goedel, Frege, Russell, Wittgenstein
