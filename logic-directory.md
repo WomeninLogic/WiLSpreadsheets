@@ -78,6 +78,7 @@ Heydari Tabar | Asmae | Technical University of Darmstadt (Germany) | PhD Studen
 Hogarth Rossiter | Sarah | University of Western Ontario (Canada) | PhD Candidate | shogart@uwo.ca | History of Logic, Late mediaeval logic, Thomas Bradwardine, Future contingents
 Huertas | Antonia | Universitat Oberta de Catalunya (Barcelona, Spain) | Associate professor | http://huertas.wordpress.com | mathematical logic, knowledge representation, modal logic, e-learning of logic
 Hundleby | Catherine | University of Windsor (Canada) | Associate Professor | http://www.uwindsor.ca/hundleby/ | Informal Logic, Feminist critiques of logic, argumentation theory, fallacies, scientific reasoning
+Jana | Purbita | Madras School of Economics (India) | Assistant Professor | https://sites.google.com/view/purbita/home | Geometric Logic, Category theory, Frame theory, Topos theory, MV algebra, Game theory, Topological Data Analysis, PDEs
 Janssen-Lauret | Frederique | University of Manchester (UK) | Tenure-track researcher | https://manchester.academia.edu/FrederiqueJanssenLauret | Philosophy of logic, History of philosophical logic, Women in the history of logic
 Johann | Patricia | Appalachian State University (US) | Professor | https://cs.appstate.edu/~johannp/ | Programming language semantics, type theory, category theory
 Kalvala | Sara | University of Warwick | Associate Professor | http://go.warwick.ac.uk/kalvala | theorem proving, compiler verification, computational biology, synthetic biology
