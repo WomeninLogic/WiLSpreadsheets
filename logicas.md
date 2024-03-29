@@ -5,6 +5,12 @@ Voce pode ver instrucoes de como se adicionar a esta lista na pagina [main page]
 | Sobrenome | Nome | Instituicao (Pais) | Cargo | site | Areas (separar por virgulas) | 
 |:-|:-|:-|:-|:-|:-|
 Arruda | Ayda Ignez | Campinas? | cargo | site | areas
-D'Otaviano | Itala | CLE, Campinas | filosofa | site | areas
-Dutilh Novaes | Catarina | VU, Amsterdam | filosofa | https://www.cdutilhnovaes.com/| 
-Alechina | Natasha | University of Nottingham | Associate Professor | https://scholar.google.co.uk/citations?user=J1ThCVcAAAAJ | Modal logics and multiagent systems
+Bueno | Juliana Soler | Campinas | cargo | site | areas
+D'Otaviano | Itala | CLE, Campinas | Professora Emerita | site | areas
+Dutilh Novaes | Catarina | VU, Amsterdam | Chair of Research | https://www.cdutilhnovaes.com/| areas
+Figueiredo | Celina | UFRJ | Professora titular | site | areas
+Pugliese | Natassja | UFRJ | Associate Professor |  | 
+Leal | Halina Macedo | FURB
+Nantes | Daniele | Imperial College, London | cargo | site | areas
+Reis | Giselle | CMU - Qatar | cargo | site | areas
+Wasserman | Renata | IME-USP | cargo | site  | areas
