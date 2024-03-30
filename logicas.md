@@ -12,6 +12,7 @@ Erickson | Evelyn | UFRN | cargo | site | areas
 Figueiredo | Celina | UFRJ | Professora titular | site | areas
 Leal | Halina Macedo | FURB |cargo | site | areas
 Loparic | Andrea | Campinas | (falecida) | site | areas
+Martinez-Ordaz | Maria | UFRJ | cargo | site | area
 Moller | Vania | |  cargo | site | areas
 Nantes | Daniele | Imperial College, London | cargo | site | areas
 Pimentel | Elaine | UCL |cargo | site | areas
