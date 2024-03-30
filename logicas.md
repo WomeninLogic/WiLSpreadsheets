@@ -18,9 +18,9 @@ Moller | Vania | |  cargo | site | areas
 Nantes | Daniele | Imperial College, London | cargo | site | areas
 Pimentel | Elaine | UCL |cargo | site | areas
 Pugliese | Natassja | UFRJ | Associate Professor |  | 
-Reis | Giselle | CMU - Qatar | cargo | site | areas
+Reis | Giselle | CMU - Qatar | cargo | https://giselesecco.site/ | areas
 Secco | Gisele | UC San Bernardino | cargo | site | areas
-Soler | Juliana Bueno | Campinas | cargo | site | areas
-Tenorio | Ana Luiza | USP | cargo | site | areas
+Soler | Juliana Bueno | Campinas | cargo | https://www.cle.unicamp.br/cle/juliana-bueno-soler | areas
+Tenorio | Ana Luiza | USP | cargo | https://sites.google.com/ime.usp.br/analuizatenorio | areas
 Veloso | Sheila | UFRJ | Professora | https://www.cos.ufrj.br/~sheila/ | areas
-Wasserman | Renata | IME-USP | cargo | site  | areas
+Wasserman | Renata | IME-USP | cargo | https://www.ime.usp.br/~renata/  | areas
