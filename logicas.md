@@ -22,4 +22,5 @@ Reis | Giselle | CMU - Qatar | cargo | site | areas
 Secco | Gisele | UC San Bernardino | cargo | site | areas
 Soler | Juliana Bueno | Campinas | cargo | site | areas
 Tenorio | Ana Luiza | USP | cargo | site | areas
+Veloso | Sheila | UFRJ | Professora | https://www.cos.ufrj.br/~sheila/ | areas
 Wasserman | Renata | IME-USP | cargo | site  | areas
