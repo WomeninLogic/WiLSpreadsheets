@@ -6,6 +6,7 @@ Voce pode ver instrucoes de como se adicionar a esta lista na pagina [main page]
 |:-|:-|:-|:-|:-|:-|
 Arruda | Ayda Ignez | Campinas | (falecida) | site | areas
 Blasio | Carolina |  | cargo | site | areas
+de Paiva | Valeria C V | Topos Institute, Berkeley | Principal researcher | http://vcvpaiva.github.io/ | categorical logic, Linear logic, Natural Deduction
 D'Otaviano | Itala | CLE, Campinas | Professora Emerita | site | areas
 Dutilh Novaes | Catarina | VU, Amsterdam | Chair of Research | https://www.cdutilhnovaes.com/| areas
 Erickson | Evelyn | UFRN | cargo | site | areas
