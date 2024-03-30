@@ -15,11 +15,11 @@ Leal | Halina Macedo | FURB |cargo | site | areas
 Loparic | Andrea | Campinas | (falecida) | site | areas
 Martinez-Ordaz | Maria | UFRJ | cargo | site | area
 Moller | Vania | |  cargo | site | areas
-Nantes | Daniele | Imperial College, London | cargo | site | areas
-Pimentel | Elaine | UCL |cargo | site | areas
+Nantes | Daniele | Imperial College, London | cargo | https://vtss.doc.ic.ac.uk/people/nantes.html | areas
+Pimentel | Elaine | UCL |cargo | https://sites.google.com/site/elainepimentel/ | areas
 Pugliese | Natassja | UFRJ | Associate Professor |  | 
-Reis | Giselle | CMU - Qatar | cargo | https://giselesecco.site/ | areas
-Secco | Gisele | UC San Bernardino | cargo | site | areas
+Reis | Giselle | CMU - Qatar | cargo | https://gisellereis.com/ | areas
+Secco | Gisele | UC San Bernardino | cargo | https://giselesecco.site/ | areas
 Soler | Juliana Bueno | Campinas | cargo | https://www.cle.unicamp.br/cle/juliana-bueno-soler | areas
 Tenorio | Ana Luiza | USP | cargo | https://sites.google.com/ime.usp.br/analuizatenorio | areas
 Veloso | Sheila | UFRJ | Professora | https://www.cos.ufrj.br/~sheila/ | areas
