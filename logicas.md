@@ -16,6 +16,7 @@ Loparic | Andrea | Campinas | (falecida) | site | areas
 Martinez-Ordaz | Maria | UFRJ | cargo | site | area
 Moller | Vania | |  cargo | site | areas
 Nantes | Daniele | Imperial College, London | cargo | https://vtss.doc.ic.ac.uk/people/nantes.html | areas
+Nalon | Claudia | Professor Titular | site | areas
 Pimentel | Elaine | UCL |cargo | https://sites.google.com/site/elainepimentel/ | areas
 Pugliese | Natassja | UFRJ | Associate Professor |  | 
 Reis | Giselle | CMU - Qatar | cargo | https://gisellereis.com/ | areas
