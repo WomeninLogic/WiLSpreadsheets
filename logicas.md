@@ -5,11 +5,11 @@ Voce pode ver instrucoes de como se adicionar a esta lista na pagina [main page]
 | Sobrenome | Nome | Instituicao (Pais) | Cargo | site | Areas (separar por virgulas) | 
 |:-|:-|:-|:-|:-|:-|
 Arruda | Ayda Ignez | Campinas | (falecida) | site | areas
-Blasio | Carolina | Campinas | (falecida)  | site | areas
+Blasio | Carolina | Campinas | (falecida)  | site | lógicas polivalentes
 de Paiva | Valeria | Topos Institute, Berkeley | Pesquisadora| http://vcvpaiva.github.io/ | categorical logic, Linear logic, Natural Deduction
 D'Otaviano | Itala | CLE, Campinas | Professora Emerita | https://en.wikipedia.org/wiki/Itala_D%27Ottaviano | areas
 Dutilh Novaes | Catarina | VU, Amsterdam | Professora | https://www.cdutilhnovaes.com/| areas
-Erickson | Evelyn | UFRN | cargo | https://eerickson.weebly.com/ | areas
+Erickson | Evelyn | UFSC | Pósdoc | https://eerickson.weebly.com/ | filosofia da lógica
 Figueiredo | Celina | UFRJ | Professora titular UFRJ |https://www.cos.ufrj.br/~celina/ | areas
 Leal | Halina Macedo | FURB | Professora | site | areas
 Loparic | Andrea | Campinas | (falecida) | site | areas
