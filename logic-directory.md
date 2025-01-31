@@ -176,7 +176,7 @@ Turhan | Anni-Yasmin | TU Dresden (Germany) | Senior researcher |  | knowledge r
 Uckelman | Sara L. | Durham University | Assistant professor | http://community.dur.ac.uk/s.l.uckelman |  history of logic, philosophy of language, philosophy of math, medieval logic, history of logic, modal and dynamic logic
 van der Schaar | Maria | University of Leiden | assistant professor | http://www.hum.leidenuniv.nl/filosofie/organisatie/staf/schaar.html | philosophy of logic, history of logic, theory of judgement, constructive type theory, origins of analytic philosophy
 van Wierst | Pauline | Scuola Normale Superiore (Italy) | PhD Candidate | | Philosophy of Logic, Philosophy of Mathematics, Ideals of mathematical proof (grounding), Bolzano's logic
-VanDieren | Monica | IBM, Quantum Industry & Technical Services (USA) | Learning Strategist | [https://vandieren.github.io/](https://vandieren.github.io/) | quantum computing, model theory, non-elementary classes, set theory
+VanDieren | Monica | NVIDIA (USA) | Sr Technical Marketing Engineer | [[https://vandieren.github.io/](https://www.linkedin.com/in/monica-vandieren/) | quantum computing, model theory, non-elementary classes, set theory
 Veloso | Sheila | UFRJ | Professor |  |
 Verbrugge | Rineke | University of Groningen (Netherlands) | Full Professor | https://rinekeverbrugge.nl/ | Mathematical logic, computational logic, Cognitive science, Logics for multi-agent systems, Formal models of social cognition
 Verity | Florrie | Australian National University | PhD Student | | type theory, categorical logic, homotopy type theory, formal semantics of natural language, interactive theorem provers
