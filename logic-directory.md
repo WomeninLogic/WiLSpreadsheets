@@ -75,6 +75,7 @@ Gómez Álvarez | Lucia | TU Dresden (Germany) | postdoc | https://iccl.inf.tu-d
 Ghosh | Sujata | Indian Statistical Institute, Chennai (India) | Associate Professor | https://www.isichennai.res.in/~sujata | Games, strategies and logics, Knowledge and belief, Social cognition, Reasoning in individuals with ASD
 Hansen | Helle Hvid | University of Groningen (Netherlands) | Associate Professor | https://www.rug.nl/staff/h.h.hansen/ | modal logic, coalgebra, category theory, coalgebraic modal logic, neighbourhood semantics
 Heydari Tabar | Asmae | Technical University of Darmstadt (Germany) | PhD Student |   | First-order logic, Formal specification and verification of software
+Hocquette | Céline | University of Southampton | Lecturer | https://celinehocquette.github.io | Inductive logic programming 
 Hogarth Rossiter | Sarah | University of Western Ontario (Canada) | PhD Candidate | shogart@uwo.ca | History of Logic, Late mediaeval logic, Thomas Bradwardine, Future contingents
 Huertas | Antonia | Universitat Oberta de Catalunya (Barcelona, Spain) | Associate professor | http://huertas.wordpress.com | mathematical logic, knowledge representation, modal logic, e-learning of logic
 Hundleby | Catherine | University of Windsor (Canada) | Associate Professor | http://www.uwindsor.ca/hundleby/ | Informal Logic, Feminist critiques of logic, argumentation theory, fallacies, scientific reasoning
