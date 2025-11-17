@@ -195,3 +195,4 @@ Zhu | Shufang | Sapienza University of Rome (Italy) | Research postdoc | https:/
 Gallovich | Camila | University of Buenos Aires, National Scientific and Technical Research Council (Argentina) | Teaching Assistant, PhD Student | https://iif.conicet.gov.ar/becarios/camila-gallovich/ | Philosophy of Logic, Philosophy of Mathematics, Formal Metaphysics
 Dumitru | Nicoleta | University of Bucharest (Romania) | Teaching Assistant, PhD Student | https://cs.unibuc.ro/~ndumitru/ | Cryptography, Proof mining and applications in optimization
 Derakhshan | Farzaneh | Illinois Institute of Technology (US) | Assistant professor | http://gauss.cs.iit.edu/~fderakhshan/ | Programming Languages, Proof Theory, Type Theory, Language-based Security
+Ge | Xue | Sun Yat-Set University | PhD student | | Philosophical logic, linear logic, proof theory
