@@ -47,7 +47,7 @@ Dardha | Ornela | University of Glasgow (UK) | Lecturer | http://www.dcs.gla.ac.
 Davis | Ruth E. | Santa Clara University (USA) | Professor | http://www.cse.scu.edu/~rdavis/html/homepage.html | logic and semantics of programming languages
 Davoren | Jen | University of Melbourne | Senior Lecturer | http://people.eng.unimelb.edu.au/davoren/ | Computer Science Logics
 de Paiva | Valeria | Topos Institute (US)  | Principal Research Scientist | http://vcvpaiva.github.io/ | Categorical Logic, category theory, linear, modal and intuitionistic logics
-Dechesne | Francien | Delft University of Technology (Netherlands) | researcher | http://www.ethicsandtechnology.eu/people/dechesne/ | constructive logic, modal logics  independence friendly logic, dynamic epistemic logic
+Dechesne | Francien | Delft University of Technology (Netherlands) | researcher | https://www.universiteitleiden.nl/en/staffmembers/francien-dechesne | constructive logic, modal logics  independence friendly logic, dynamic epistemic logic
 Dobrinen | Natasha | University of Denver | Professor | http://cs.du.edu/~ndobrine/ | Logic and Set Theory, Ramsey Theory
 Dumbrava | Stefania | ENSIIE & Institut Polytechnique de Paris (France) | Associate Professor | http://web4.ensiie.fr/~stefania.dumbrava/ | Formal Methods, Software Verification, Theorem Proving,  Knowledge Representation 
 Dunfield | Jana | Queen's University (Canada) | Assistant Professor | https://research.cs.queensu.ca/home/jana/ | programming languages
