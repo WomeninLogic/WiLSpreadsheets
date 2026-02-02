@@ -12,7 +12,7 @@ Alves | Sandra | University of Porto | Assistant professor | http://www.dcc.fc.u
 Anderson | Gabrielle | University of Aberdeen (UK) | Research postdoc |  | modal logics and process calculi
 Antonakos | Evangelia | Bronx Community College, CUNY (New York, USA) | Assistant Professor |  | mathematical logic, modal episemology
 Arndt | Dörthe | TU Dresden (Germany) | Postdoc | https://iccl.inf.tu-dresden.de/web/D%C3%B6rthe_Arndt | knowledge representation and reasoning, Rule-based reasoning
-Ayhan | Sara | Ruhr University Bochum, Germany | PhD Student | https://www.pe.ruhr-uni-bochum.de/philosophie/i/logic/team/ayhan.html.en | Proof-theoretic semantics, proof theory, bilateralism, philosophical logic, non-classical logics
+Ayhan | Sara | Tohoku University, Japan | Assistant Professor | [https://www.pe.ruhr-uni-bochum.de/philosophie/i/logic/team/ayhan.html.en](https://sites.google.com/view/sara-ayhan) | Proof-theoretic semantics, proof theory, bilateralism, philosophical logic, non-classical logics
 Bagchi | Tista | University of Delhi (India) | Professor, Department of Linguistics | http://www.du.ac.in/index.php?id=270&fmember=2540&cid=319 | semantics and pragmatics, philosophy of mathematics and physics, Philosophy of science focus on ethics
 Balzer | Stephanie | Carnegie Mellon University (USA) | Assistant Research Professor | https://www.cs.cmu.edu/~balzers/ | Type theory, Programming Languages, Security
 Banerjee | Mohua | India Institute of Technology | Professor, Department of Mathematics | https://www.iitk.ac.in | Modal Logic, Approximate Reasoning, Rough Sets
