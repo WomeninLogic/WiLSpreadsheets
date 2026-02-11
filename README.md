@@ -1,3 +1,7 @@
+Here are basic instructions to add yourself or a favorite friend (who's ok with it) to our directories.
+You need a GitHub account, which is free. 
+If, by any chance, you have a problem following the instructions, you can write to valeria.depaiva@gmail.com and ask for help.
+
 # WiL Directories
 
 - [Women in Logic](logic-directory.md)
