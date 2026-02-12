@@ -197,3 +197,4 @@ Yang | Fan | University of Helsinki (Finland) | Academy Research Fellow | https:
 Yap | Audrey | University of Victoria (Canada) | Associate Professor | http://web.uvic.ca/~ayap/ | philosophy of logic, history and philosophy of math, (dynamic) epistemic logic
 Zamansky | Anna | University of Haifa (Israel) | assistant professor | http://is.haifa.ac.il/~annazam/web/ | Non-classical logic, Proof Theory, Knowledge representation, Paraconsistent logics
 Zhu | Shufang | Sapienza University of Rome (Italy) | Research postdoc | https://shufang-zhu.github.io/ | Automated reasoning, planning and program synthesis
+Bilotta | Antonella | Scuola Normale Superiore di Pisa (Italy) | PhD Student | https://github.com/Antonella-Bilotta/ | modal logics, proof theory, interactive theorem provers
