@@ -161,7 +161,7 @@ Russell | Gillian | Australian Catholic University, Dianoia Institute of Philoso
 Sadrzadeh | Mehrnoosh | Queen Mary University of London (UK) | Senior Lecturer and EPSRC Career Acceleration Fellow | http://www.eecs.qmul.ac.uk/people/view/33472/dr-mehrnoosh-sadrzadeh |  Artificial Intelligence, Compositional Distributional Semantics, Category Theoretical Models of Natural Language, Pregroup Grammars
 Safari | Roghieh | Institute for Research in Fundamental Sciences(IPM,  Iran) | Researcher |  | Mathematical logic, Computational logic, continuous model theory, model theory of operator algebra
 Sagi | Gil | Haifa University (Israel) | Lecturer | https://gilisagi.wixsite.com/gil-sagi | Philosophy of logic , Philosophy of language, Logical consequence, formality, logical terms, Logic and natural language, History of the philosophy of logic (Frege, Tarski, Carnap)
-Salgado | Isa | Universidade de Brasília | Student | |  | knowledge representation, Computation Logic, Ontology
+Salgado | Isa | Universidade de Brasília | Student |  | knowledge representation, Computation Logic, Ontology
 Sattler | Uli | University of Manchester | Professor | http://www.cs.man.ac.uk/~sattler/ | Logic-based knowledge representation, automated reasoning, Description Logic, Ontology engineering
 Schmidt | Renate | University of Manchester | University Reader | http://www.cs.man.ac.uk/~schmidt/ | Logic, Automated reasoining, Ontology-based knowledge processing, description logics, modal logics, relation algebras
 Schulz | Katrin | ILLC -- University of Amsterdam (Netherlands) | Assistant professor | http://home.medewerker.uva.nl/k.schulz/ | Formal Semantics, Philosophical Logic, Conditionals, Pragmatics, causation
@@ -177,7 +177,7 @@ Soskova | Alexandra | Sofia University, Sofia | Associate Professor | https://st
 Sousa | Ana Catarina | CMAT, Universidade do Minho (Portugal) | Ph D student |https://www.cmat.uminho.pt/user/934 | Proof Search, Human-centered Theorem Proving, Proof Theory.
 Sterrett | Susan G | Wichita State University, Kansas, USA | Full Professor | https://www.susangsterrett.com/ | Philosophy of Science , AI/Philosophical Logic/PhilMind
 Sundararajan | Vaishnavi | Indian Institute of Technology Delhi (India) | Assistant Professor | https://vaishs.github.io | Formal Methods, Verification, Security Systems 
-Ternovska | Evgenia | Simon Fraser University (Canada) | | www.cs.sfu.ca/~ter |  | Computational logic
+Ternovska | Evgenia | Simon Fraser University (Canada) | | www.cs.sfu.ca/~ter | Computational logic
 Terrés | Pilar | University of Valencia (Spain) | PhD student | https://philpeople.org/profiles/pilar-terres | Philosophical logic, philosophy of logic, substructural logics
 Terzian | Giulia | University of Bristol (UK) | Teaching fellow | http://www.bristol.ac.uk/school-of-arts/people/giulia-terzian/overview.html | Philosophical logic, Philosophy of maths, metaphysics, Formal theories of truth,  set theory
 Thalos | Mariam | Utah (USA) | Professor | http://www.thalos.web.utah.edu | Philosophy of logic, philosophy of science, philosophy of physics, Philosophy of decision, Philosophy of mathematics
