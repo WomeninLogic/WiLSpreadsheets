@@ -21,6 +21,7 @@ Belardinelli | Gaia | University of Copenhagen, Denmark | PhD Student | https://
 Besler | Gabriela | Department of Philosophy, University of Silesia, Poland | assistant professor | | philosophy of logic, history of logic, (neo)logicism, number's concept, G. Frege's logic
 Biernacka | Malgorzata | Institute of Computer Science, Univerisity of Wroclaw, Poland | assistant professor | | computational logic
 Bilkova | Marta | Czech Academy of Sciences (Czech rep.) | Researcher | https://sites.google.com/view/martabilkova | Logic in computer science, Non-classical logics, Modal, substructural, coalgebraic and paraconsistent logics
+Bilotta | Antonella | Scuola Normale Superiore di Pisa (Italy) | PhD Student | https://github.com/Antonella-Bilotta/ | modal logics, proof theory, interactive theorem provers
 Blanchette | Patricia | U of Notre Dame | Professor | https://www3.nd.edu/~pblanche/ | philosophy of logic, history of logic
 Blasio | Carolina | CLE/IFCH - Unicamp (Brazil) | (in memoriam) |  | Philosophical logic
 Bobzien | Susanne |  University of Oxford | Professor and Senior researcher |  https://www.asc.ox.ac.uk/person/2155 | Philosophical logic, Hist logic, Vagueness, higher-order vagueness, ancient logic 
@@ -198,4 +199,3 @@ Yang | Fan | University of Helsinki (Finland) | Academy Research Fellow | https:
 Yap | Audrey | University of Victoria (Canada) | Associate Professor | http://web.uvic.ca/~ayap/ | philosophy of logic, history and philosophy of math, (dynamic) epistemic logic
 Zamansky | Anna | University of Haifa (Israel) | assistant professor | http://is.haifa.ac.il/~annazam/web/ | Non-classical logic, Proof Theory, Knowledge representation, Paraconsistent logics
 Zhu | Shufang | Sapienza University of Rome (Italy) | Research postdoc | https://shufang-zhu.github.io/ | Automated reasoning, planning and program synthesis
-Bilotta | Antonella | Scuola Normale Superiore di Pisa (Italy) | PhD Student | https://github.com/Antonella-Bilotta/ | modal logics, proof theory, interactive theorem provers
