@@ -176,7 +176,7 @@ Solaki | Anthia | Dutch Organization for Applied Scientific Research (TNO) | Res
 Soskova | Alexandra | Sofia University, Sofia | Associate Professor | https://store.fmi.uni-sofia.bg/fmi/logic/asoskova/ | Computability, Effective Model Theory, Enumeration reducibilty, Degree Spectra, Jump of a structure
 Sousa | Ana Catarina | CMAT, Universidade do Minho (Portugal) | Ph D student |https://www.cmat.uminho.pt/user/934 | Proof Search, Human-centered Theorem Proving, Proof Theory.
 Sterrett | Susan G | Wichita State University, Kansas, USA | Full Professor | https://www.susangsterrett.com/ | Philosophy of Science , AI/Philosophical Logic/PhilMind
-Sundararajan | Vaishnavi | Indian Institute of Technology Delhi (India) | Assistant Professor | https://vaishs.github.io | Formal Methods, Verification, Security Systems 
+Sundararajan | Vaishnavi | Indian Institute of Technology Delhi (India) | Assistant Professor | https://vaishs.github.io | Formal Methods and Verification, Proof Theory, Security Systems 
 Ternovska | Evgenia | Simon Fraser University (Canada) | | www.cs.sfu.ca/~ter | Computational logic
 Terrés | Pilar | University of Valencia (Spain) | PhD student | https://philpeople.org/profiles/pilar-terres | Philosophical logic, philosophy of logic, substructural logics
 Terzian | Giulia | University of Bristol (UK) | Teaching fellow | http://www.bristol.ac.uk/school-of-arts/people/giulia-terzian/overview.html | Philosophical logic, Philosophy of maths, metaphysics, Formal theories of truth,  set theory
